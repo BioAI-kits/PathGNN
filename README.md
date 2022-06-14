@@ -15,6 +15,8 @@ we applied `model.py` to construct PathGNN models for predicting risk stratifica
 
 `submodel.py` is used to realize the `Subnetwork1` in our paper.
 
-All rights reserved.
 
 ![](https://github.com/BioAI-kits/PathGNN/blob/main/fig1.png)
+
+All rights reserved.
+
