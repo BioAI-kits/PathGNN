@@ -1,0 +1,856 @@
+pathway	Native ID	Database	Species	Number of nodes	Number of edges	Retrieved on	URL	Number_of_nodes_update
+Diseases of metabolism	R-HSA-5668914	 Reactome	 hsapiens	394	724	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5668914	147.0
+Metabolism of vitamins and cofactors	R-HSA-196854	 Reactome	 hsapiens	375	3139	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-196854	179.0
+DNA Repair	R-HSA-73894	 Reactome	 hsapiens	362	11215	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-73894	322.0
+MAPK family signaling cascades	R-HSA-5683057	 Reactome	 hsapiens	351	5894	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5683057	323.0
+Intracellular signaling by second messengers	R-HSA-9006925	 Reactome	 hsapiens	333	4762	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9006925	309.0
+Translation	R-HSA-72766	 Reactome	 hsapiens	329	16833	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-72766	288.0
+Signaling by WNT	R-HSA-195721	 Reactome	 hsapiens	323	6525	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-195721	327.0
+Signaling by Nuclear Receptors	R-HSA-9006931	 Reactome	 hsapiens	320	3819	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9006931	294.0
+Transmission across Chemical Synapses	R-HSA-112315	 Reactome	 hsapiens	319	5680	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-112315	247.0
+Phospholipid metabolism	R-HSA-1483257	 Reactome	 hsapiens	315	3961	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1483257	186.0
+Antigen processing: Ubiquitination & Proteasome degradation	R-HSA-983168	 Reactome	 hsapiens	315	22519	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-983168	304.0
+Extracellular matrix organization	R-HSA-1474244	 Reactome	 hsapiens	312	3696	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1474244	275.0
+ERK1/ERK2 pathway	R-HSA-5684996	 Reactome	 hsapiens	312	5462	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5684996	284.0
+RAF/MAP kinase cascade	R-HSA-5673001	 Reactome	 hsapiens	306	5406	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5673001	278.0
+RHO GTPase Effectors	R-HSA-195258	 Reactome	 hsapiens	302	8245	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-195258	310.0
+Metabolism of steroids	R-HSA-8957322	 Reactome	 hsapiens	301	3396	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8957322	138.0
+Organelle biogenesis and maintenance	R-HSA-1852241	 Reactome	 hsapiens	301	6923	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1852241	283.0
+Phase I - Functionalization of compounds	R-HSA-211945	 Reactome	 hsapiens	297	4155	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-211945	100.0
+Anti-inflammatory response favouring Leishmania parasite infection	R-HSA-9662851	 Reactome	 hsapiens	294	9592	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9662851	166.0
+Interferon Signaling	R-HSA-913531	 Reactome	 hsapiens	291	2554	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-913531	199.0
+Deubiquitination	R-HSA-5688426	 Reactome	 hsapiens	288	3140	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5688426	295.0
+PI3K/AKT Signaling	R-HSA-1257604	 Reactome	 hsapiens	286	4256	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1257604	267.0
+G alpha (q) signalling events	R-HSA-416476	 Reactome	 hsapiens	282	5786	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-416476	192.0
+Cell Cycle Checkpoints	R-HSA-69620	 Reactome	 hsapiens	278	7827	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-69620	294.0
+Disorders of transmembrane transporters	R-HSA-5619115	 Reactome	 hsapiens	269	2263	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5619115	115.0
+Phase II - Conjugation of compounds	R-HSA-156580	 Reactome	 hsapiens	258	1545	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-156580	101.0
+HIV Infection	R-HSA-162906	 Reactome	 hsapiens	257	8464	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-162906	223.0
+Chromatin modifying enzymes	R-HSA-3247509	 Reactome	 hsapiens	256	4024	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3247509	273.0
+Metabolism of water-soluble vitamins and cofactors	R-HSA-196849	 Reactome	 hsapiens	252	1620	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-196849	118.0
+Cell surface interactions at the vascular wall	R-HSA-202733	 Reactome	 hsapiens	251	2293	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-202733	127.0
+Nucleotide metabolism	R-HSA-15869	 Reactome	 hsapiens	250	3421	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-15869	89.0
+Mitotic Metaphase and Anaphase	R-HSA-2555396	 Reactome	 hsapiens	248	8742	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2555396	235.0
+Mitotic Anaphase	R-HSA-68882	 Reactome	 hsapiens	247	8736	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-68882	234.0
+HCMV Infection	R-HSA-9609646	 Reactome	 hsapiens	244	13713	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9609646	141.0
+Processing of Capped Intron-Containing Pre-mRNA	R-HSA-72203	 Reactome	 hsapiens	244	22021	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-72203	244.0
+Neddylation	R-HSA-8951664	 Reactome	 hsapiens	239	6955	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8951664	234.0
+The citric acid (TCA) cycle and respiratory electron transport	R-HSA-1428517	 Reactome	 hsapiens	234	5479	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1428517	175.0
+Fc epsilon receptor (FCERI) signaling	R-HSA-2454202	 Reactome	 hsapiens	234	6511	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2454202	131.0
+Programmed Cell Death	R-HSA-5357801	 Reactome	 hsapiens	230	1919	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5357801	210.0
+Signaling by ROBO receptors	R-HSA-376176	 Reactome	 hsapiens	226	7527	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-376176	218.0
+ESR-mediated signaling	R-HSA-8939211	 Reactome	 hsapiens	223	2868	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8939211	221.0
+Glycerophospholipid biosynthesis	R-HSA-1483206	 Reactome	 hsapiens	222	2200	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1483206	107.0
+Signaling by NOTCH	R-HSA-157118	 Reactome	 hsapiens	218	3074	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-157118	236.0
+Transcriptional regulation by RUNX1	R-HSA-8878171	 Reactome	 hsapiens	214	3973	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8878171	239.0
+TCF dependent signaling in response to WNT	R-HSA-201681	 Reactome	 hsapiens	213	4126	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-201681	233.0
+rRNA processing	R-HSA-72312	 Reactome	 hsapiens	211	8276	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-72312	196.0
+Neurotransmitter receptors and postsynaptic signal transmission	R-HSA-112314	 Reactome	 hsapiens	209	3432	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-112314	183.0
+Muscle contraction	R-HSA-397014	 Reactome	 hsapiens	208	5282	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-397014	193.0
+Ub-specific processing proteases	R-HSA-5689880	 Reactome	 hsapiens	206	2367	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5689880	218.0
+Diseases of glycosylation	R-HSA-3781865	 Reactome	 hsapiens	202	393	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3781865	113.0
+Ion channel transport	R-HSA-983712	 Reactome	 hsapiens	201	3049	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-983712	179.0
+rRNA processing in the nucleus and cytosol	R-HSA-8868773	 Reactome	 hsapiens	201	8255	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8868773	191.0
+Transport to the Golgi and subsequent modification	R-HSA-948021	 Reactome	 hsapiens	200	5302	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-948021	147.0
+Cellular response to chemical stress	R-HSA-9711123	 Reactome	 hsapiens	199	2519	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9711123	157.0
+Intra-Golgi and retrograde Golgi-to-ER traffic	R-HSA-6811442	 Reactome	 hsapiens	199	3901	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6811442	185.0
+C-type lectin receptors (CLRs)	R-HSA-5621481	 Reactome	 hsapiens	196	2202	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5621481	141.0
+Antigen processing-Cross presentation	R-HSA-1236975	 Reactome	 hsapiens	195	2335	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1236975	98.0
+Mitotic Prometaphase	R-HSA-68877	 Reactome	 hsapiens	194	9672	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-68877	191.0
+Mitotic G2-G2/M phases	R-HSA-453274	 Reactome	 hsapiens	193	6055	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-453274	185.0
+Cilium Assembly	R-HSA-5617833	 Reactome	 hsapiens	193	6352	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5617833	188.0
+Fcgamma receptor (FCGR) dependent phagocytosis	R-HSA-2029480	 Reactome	 hsapiens	193	6934	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2029480	85.0
+G2/M Transition	R-HSA-69275	 Reactome	 hsapiens	191	6039	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-69275	183.0
+RAC1 GTPase cycle	R-HSA-9013149	 Reactome	 hsapiens	190	784	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9013149	185.0
+HCMV Early Events	R-HSA-9609690	 Reactome	 hsapiens	189	6682	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9609690	116.0
+B Cell Activation	R-HSA-983705	 Reactome	 hsapiens	188	5387	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-983705	112.0
+mRNA Splicing	R-HSA-72172	 Reactome	 hsapiens	188	16984	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-72172	191.0
+Apoptosis	R-HSA-109581	 Reactome	 hsapiens	187	1669	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-109581	180.0
+SUMOylation	R-HSA-2990846	 Reactome	 hsapiens	187	1954	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2990846	188.0
+Toll-like Receptor Cascades	R-HSA-168898	 Reactome	 hsapiens	185	2065	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-168898	154.0
+Cytochrome P450 - arranged by substrate type	R-HSA-211897	 Reactome	 hsapiens	184	2429	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-211897	45.0
+Major pathway of rRNA processing in the nucleolus and cytosol	R-HSA-6791226	 Reactome	 hsapiens	183	7797	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6791226	183.0
+pre-mRNA splicing	R-HSA-72163	 Reactome	 hsapiens	180	16604	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-72163	183.0
+Glycosaminoglycan metabolism	R-HSA-1630316	 Reactome	 hsapiens	179	1415	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1630316	115.0
+SUMO E3 ligases SUMOylate target proteins	R-HSA-3108232	 Reactome	 hsapiens	178	1903	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3108232	182.0
+S Phase	R-HSA-69242	 Reactome	 hsapiens	178	3270	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-69242	161.0
+Influenza Infection	R-HSA-168255	 Reactome	 hsapiens	177	10337	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-168255	144.0
+Interferon gamma signaling	R-HSA-877300	 Reactome	 hsapiens	176	410	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-877300	91.0
+SARS-CoV Infections	R-HSA-9679506	 Reactome	 hsapiens	176	981	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9679506	88.0
+Cellular Senescence	R-HSA-2559583	 Reactome	 hsapiens	176	3482	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2559583	197.0
+Selenoamino acid metabolism	R-HSA-2408522	 Reactome	 hsapiens	176	5596	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2408522	115.0
+SLC transporter disorders	R-HSA-5619102	 Reactome	 hsapiens	175	698	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5619102	40.0
+Regulation of expression of SLITs and ROBOs	R-HSA-9010553	 Reactome	 hsapiens	174	7238	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9010553	171.0
+Separation of Sister Chromatids	R-HSA-2467813	 Reactome	 hsapiens	174	7824	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2467813	174.0
+Regulation of TP53 Activity	R-HSA-5633007	 Reactome	 hsapiens	173	1657	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5633007	160.0
+ER-Phagosome pathway	R-HSA-1236974	 Reactome	 hsapiens	173	1762	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1236974	90.0
+HIV Life Cycle	R-HSA-162587	 Reactome	 hsapiens	173	6044	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-162587	147.0
+FCERI mediated NF-kB activation	R-HSA-2871837	 Reactome	 hsapiens	172	3428	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2871837	76.0
+G alpha (s) signalling events	R-HSA-418555	 Reactome	 hsapiens	172	3431	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-418555	145.0
+HCMV Late Events	R-HSA-9610379	 Reactome	 hsapiens	170	8152	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9610379	116.0
+Visual phototransduction	R-HSA-2187338	 Reactome	 hsapiens	169	1740	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2187338	96.0
+Protein localization	R-HSA-9609507	 Reactome	 hsapiens	168	1621	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9609507	164.0
+Platelet activation, signaling and aggregation	R-HSA-76002	 Reactome	 hsapiens	168	1732	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-76002	129.0
+Arachidonic acid metabolism	R-HSA-2142753	 Reactome	 hsapiens	165	1148	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2142753	54.0
+Cellular response to starvation	R-HSA-9711097	 Reactome	 hsapiens	165	6951	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9711097	156.0
+CDC42 GTPase cycle	R-HSA-9013148	 Reactome	 hsapiens	163	624	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9013148	159.0
+Transport of inorganic cations/anions and amino acids/oligopeptides	R-HSA-425393	 Reactome	 hsapiens	163	2579	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-425393	104.0
+DNA Double-Strand Break Repair	R-HSA-5693532	 Reactome	 hsapiens	163	4712	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5693532	167.0
+Transport of bile salts and organic acids, metal ions and amine compounds	R-HSA-425366	 Reactome	 hsapiens	162	1020	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-425366	53.0
+Beta-catenin independent WNT signaling	R-HSA-3858494	 Reactome	 hsapiens	160	2113	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3858494	141.0
+Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein	R-HSA-446193	 Reactome	 hsapiens	159	746	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-446193	78.0
+Biosynthesis of specialized proresolving mediators (SPMs)	R-HSA-9018678	 Reactome	 hsapiens	159	1255	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9018678	19.0
+Clathrin-mediated endocytosis	R-HSA-8856828	 Reactome	 hsapiens	159	10458	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8856828	143.0
+Sphingolipid metabolism	R-HSA-428157	 Reactome	 hsapiens	158	845	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-428157	83.0
+ADORA2B mediated anti-inflammatory cytokines production	R-HSA-9660821	 Reactome	 hsapiens	158	5364	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9660821	134.0
+Regulation of actin dynamics for phagocytic cup formation	R-HSA-2029482	 Reactome	 hsapiens	158	5451	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2029482	61.0
+Late Phase of HIV Life Cycle	R-HSA-162599	 Reactome	 hsapiens	158	5756	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-162599	134.0
+FCGR3A-mediated phagocytosis	R-HSA-9664422	 Reactome	 hsapiens	157	5999	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9664422	59.0
+Complement cascade	R-HSA-166658	 Reactome	 hsapiens	155	3541	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-166658	57.0
+Factors involved in megakaryocyte development and platelet production	R-HSA-983231	 Reactome	 hsapiens	154	303	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-983231	116.0
+Death Receptor Signalling	R-HSA-73887	 Reactome	 hsapiens	154	1146	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-73887	140.0
+G2/M Checkpoints	R-HSA-69481	 Reactome	 hsapiens	154	3062	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-69481	168.0
+RHOA GTPase cycle	R-HSA-8980692	 Reactome	 hsapiens	153	581	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8980692	147.0
+Mitotic G1 phase and G1/S transition	R-HSA-453279	 Reactome	 hsapiens	153	2916	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-453279	149.0
+Influenza Viral RNA Transcription and Replication	R-HSA-168273	 Reactome	 hsapiens	153	8900	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-168273	132.0
+Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	R-HSA-163200	 Reactome	 hsapiens	152	3573	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-163200	125.0
+Interleukin-1 family signaling	R-HSA-446652	 Reactome	 hsapiens	150	2074	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-446652	141.0
+Cytoprotection by HMOX1	R-HSA-9707564	 Reactome	 hsapiens	150	2094	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9707564	122.0
+PTEN Regulation	R-HSA-6807070	 Reactome	 hsapiens	150	2271	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6807070	140.0
+Toll Like Receptor 4 (TLR4) Cascade	R-HSA-166016	 Reactome	 hsapiens	148	1742	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-166016	132.0
+Signaling by Hedgehog	R-HSA-5358351	 Reactome	 hsapiens	148	3052	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5358351	125.0
+TCR signaling	R-HSA-202403	 Reactome	 hsapiens	147	2764	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-202403	120.0
+Signaling by NTRKs	R-HSA-166520	 Reactome	 hsapiens	146	1093	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-166520	133.0
+Autophagy	R-HSA-9612973	 Reactome	 hsapiens	146	2364	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9612973	130.0
+ER to Golgi Anterograde Transport	R-HSA-199977	 Reactome	 hsapiens	145	5147	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-199977	137.0
+Integration of energy metabolism	R-HSA-163685	 Reactome	 hsapiens	144	1286	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-163685	108.0
+Host Interactions of HIV factors	R-HSA-162909	 Reactome	 hsapiens	144	3078	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-162909	124.0
+Interferon alpha/beta signaling	R-HSA-909733	 Reactome	 hsapiens	143	1028	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-909733	72.0
+DNA Replication	R-HSA-69306	 Reactome	 hsapiens	141	2591	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-69306	127.0
+FCGR3A-mediated IL10 synthesis	R-HSA-9664323	 Reactome	 hsapiens	140	4228	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9664323	28.0
+Keratinization	R-HSA-6805567	 Reactome	 hsapiens	138	1528	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6805567	124.0
+Regulation of Complement cascade	R-HSA-977606	 Reactome	 hsapiens	138	2506	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-977606	46.0
+Chromosome Maintenance	R-HSA-73886	 Reactome	 hsapiens	137	3018	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-73886	141.0
+Regulation of lipid metabolism by PPARalpha	R-HSA-400206	 Reactome	 hsapiens	135	2252	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-400206	119.0
+G1/S Transition	R-HSA-69206	 Reactome	 hsapiens	135	2493	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-69206	131.0
+Cardiac conduction	R-HSA-5576891	 Reactome	 hsapiens	135	3276	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5576891	127.0
+tRNA processing	R-HSA-72306	 Reactome	 hsapiens	134	949	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-72306	80.0
+Glucose metabolism	R-HSA-70326	 Reactome	 hsapiens	134	1475	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-70326	91.0
+Epigenetic regulation of gene expression	R-HSA-212165	 Reactome	 hsapiens	134	4483	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-212165	144.0
+Nucleobase catabolism	R-HSA-8956319	 Reactome	 hsapiens	133	1048	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8956319	25.0
+Transcriptional regulation by RUNX2	R-HSA-8878166	 Reactome	 hsapiens	133	2115	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8878166	121.0
+PPARA activates gene expression	R-HSA-1989781	 Reactome	 hsapiens	133	2236	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1989781	117.0
+Signaling by VEGF	R-HSA-194138	 Reactome	 hsapiens	132	1245	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-194138	106.0
+O-linked glycosylation	R-HSA-5173105	 Reactome	 hsapiens	132	1306	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5173105	110.0
+Synthesis of DNA	R-HSA-69239	 Reactome	 hsapiens	132	2165	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-69239	119.0
+Synthesis of substrates in N-glycan biosythesis	R-HSA-446219	 Reactome	 hsapiens	131	578	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-446219	63.0
+Macroautophagy	R-HSA-1632852	 Reactome	 hsapiens	130	1658	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1632852	115.0
+Homology Directed Repair	R-HSA-5693538	 Reactome	 hsapiens	130	3509	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5693538	138.0
+Rab regulation of trafficking	R-HSA-9007101	 Reactome	 hsapiens	129	1089	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9007101	123.0
+Golgi-to-ER retrograde transport	R-HSA-8856688	 Reactome	 hsapiens	129	2691	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8856688	116.0
+Estrogen-dependent gene expression	R-HSA-9018519	 Reactome	 hsapiens	128	1929	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9018519	150.0
+Mitotic Prophase	R-HSA-68875	 Reactome	 hsapiens	128	2367	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-68875	142.0
+RHO GTPases Activate Formins	R-HSA-5663220	 Reactome	 hsapiens	128	5505	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5663220	123.0
+Regulation of IGF Activity by IGFBP	R-HSA-381426	 Reactome	 hsapiens	127	815	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-381426	125.0
+Signaling by NTRK1 (TRKA)	R-HSA-187037	 Reactome	 hsapiens	126	828	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-187037	114.0
+MHC class II antigen presentation	R-HSA-2132295	 Reactome	 hsapiens	126	2786	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2132295	103.0
+FCERI mediated Ca+2 mobilization	R-HSA-2871809	 Reactome	 hsapiens	126	3696	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2871809	30.0
+Negative regulation of the PI3K/AKT network	R-HSA-199418	 Reactome	 hsapiens	125	1793	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-199418	113.0
+Cap-dependent Translation Initiation	R-HSA-72737	 Reactome	 hsapiens	125	5797	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-72737	119.0
+Eukaryotic Translation Initiation	R-HSA-72613	 Reactome	 hsapiens	125	5823	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-72613	119.0
+Downstream TCR signaling	R-HSA-202424	 Reactome	 hsapiens	124	2054	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-202424	98.0
+HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)	R-HSA-5693567	 Reactome	 hsapiens	124	3416	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5693567	132.0
+VEGFA-VEGFR2 Pathway	R-HSA-4420097	 Reactome	 hsapiens	123	1235	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-4420097	97.0
+Peptide hormone metabolism	R-HSA-2980736	 Reactome	 hsapiens	122	383	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2980736	85.0
+Reproduction	R-HSA-1474165	 Reactome	 hsapiens	122	2220	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1474165	139.0
+Bile acid and bile salt metabolism	R-HSA-194068	 Reactome	 hsapiens	121	1265	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-194068	35.0
+ABC-family proteins mediated transport	R-HSA-382556	 Reactome	 hsapiens	121	1866	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-382556	81.0
+FCERI mediated MAPK activation	R-HSA-2871796	 Reactome	 hsapiens	120	3083	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2871796	29.0
+Initial triggering of complement	R-HSA-166663	 Reactome	 hsapiens	119	3231	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-166663	22.0
+Nucleotide Excision Repair	R-HSA-5696398	 Reactome	 hsapiens	119	4012	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5696398	111.0
+Nonsense-Mediated Decay (NMD)	R-HSA-927802	 Reactome	 hsapiens	119	10895	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-927802	115.0
+Toll Like Receptor 2 (TLR2) Cascade	R-HSA-181438	 Reactome	 hsapiens	118	1170	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-181438	101.0
+Platelet homeostasis	R-HSA-418346	 Reactome	 hsapiens	117	924	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-418346	87.0
+PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling	R-HSA-6811558	 Reactome	 hsapiens	117	1584	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6811558	106.0
+Respiratory electron transport	R-HSA-611105	 Reactome	 hsapiens	117	2606	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-611105	100.0
+GTP hydrolysis and joining of the 60S ribosomal subunit	R-HSA-72706	 Reactome	 hsapiens	116	5482	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-72706	112.0
+Post-translational modification: synthesis of GPI-anchored proteins	R-HSA-163125	 Reactome	 hsapiens	115	467	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-163125	92.0
+Cargo recognition for clathrin-mediated endocytosis	R-HSA-8856825	 Reactome	 hsapiens	115	1327	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8856825	106.0
+Stimuli-sensing channels	R-HSA-2672351	 Reactome	 hsapiens	114	743	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2672351	102.0
+CLEC7A (Dectin-1) signaling	R-HSA-5607764	 Reactome	 hsapiens	114	1915	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5607764	101.0
+Interleukin-4 and Interleukin-13 signaling	R-HSA-6785807	 Reactome	 hsapiens	113	235	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6785807	108.0
+Degradation of the extracellular matrix	R-HSA-1474228	 Reactome	 hsapiens	113	322	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1474228	97.0
+TP53 Regulates Metabolic Genes	R-HSA-5628897	 Reactome	 hsapiens	113	893	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5628897	86.0
+SRP-dependent cotranslational protein targeting to membrane	R-HSA-1799339	 Reactome	 hsapiens	113	6181	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1799339	112.0
+Resolution of Sister Chromatid Cohesion	R-HSA-2500257	 Reactome	 hsapiens	113	6374	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2500257	109.0
+Opioid Signalling	R-HSA-111885	 Reactome	 hsapiens	112	1215	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-111885	92.0
+PI Metabolism	R-HSA-1483255	 Reactome	 hsapiens	112	1549	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1483255	78.0
+PI3K/AKT Signaling in Cancer	R-HSA-2219528	 Reactome	 hsapiens	111	599	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2219528	102.0
+Synthesis of bile acids and bile salts	R-HSA-192105	 Reactome	 hsapiens	111	983	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-192105	27.0
+HATs acetylate histones	R-HSA-3214847	 Reactome	 hsapiens	110	1034	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3214847	141.0
+Telomere Maintenance	R-HSA-157579	 Reactome	 hsapiens	110	1928	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-157579	113.0
+Post-translational protein phosphorylation	R-HSA-8957275	 Reactome	 hsapiens	109	744	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8957275	108.0
+L1CAM interactions	R-HSA-373760	 Reactome	 hsapiens	109	772	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-373760	100.0
+Signaling by TGFB family members	R-HSA-9006936	 Reactome	 hsapiens	109	977	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9006936	102.0
+Gene Silencing by RNA	R-HSA-211000	 Reactome	 hsapiens	109	1567	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-211000	133.0
+Interleukin-1 signaling	R-HSA-9020702	 Reactome	 hsapiens	109	1905	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9020702	103.0
+Mitochondrial biogenesis	R-HSA-1592230	 Reactome	 hsapiens	108	571	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1592230	95.0
+p75 NTR receptor-mediated signalling	R-HSA-193704	 Reactome	 hsapiens	107	554	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-193704	96.0
+TRIF(TICAM1)-mediated TLR4 signaling	R-HSA-937061	 Reactome	 hsapiens	107	1167	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-937061	99.0
+Potassium Channels	R-HSA-1296071	 Reactome	 hsapiens	107	1348	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1296071	103.0
+Hedgehog 'off' state	R-HSA-5610787	 Reactome	 hsapiens	107	1778	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5610787	89.0
+Toll Like Receptor 9 (TLR9) Cascade	R-HSA-168138	 Reactome	 hsapiens	106	852	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-168138	96.0
+Regulation of insulin secretion	R-HSA-422356	 Reactome	 hsapiens	106	1016	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-422356	78.0
+Mitochondrial Fatty Acid Beta-Oxidation	R-HSA-77289	 Reactome	 hsapiens	105	780	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-77289	26.0
+Glycolysis	R-HSA-70171	 Reactome	 hsapiens	104	1073	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-70171	71.0
+Collagen formation	R-HSA-1474290	 Reactome	 hsapiens	104	2835	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1474290	90.0
+Response of EIF2AK4 (GCN2) to amino acid deficiency	R-HSA-9633012	 Reactome	 hsapiens	104	4746	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9633012	101.0
+Toll Like Receptor 7/8 (TLR7/8) Cascade	R-HSA-168181	 Reactome	 hsapiens	103	850	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-168181	92.0
+Transcriptional regulation by RUNX3	R-HSA-8878159	 Reactome	 hsapiens	103	1348	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8878159	96.0
+RUNX1 regulates transcription of genes involved in differentiation of HSCs	R-HSA-8939236	 Reactome	 hsapiens	103	1972	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8939236	130.0
+TNFR2 non-canonical NF-kB pathway	R-HSA-5668541	 Reactome	 hsapiens	103	2678	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5668541	102.0
+Antigen activates B Cell Receptor (BCR) leading to generation of second messengers	R-HSA-983695	 Reactome	 hsapiens	103	3772	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-983695	29.0
+MyD88 dependent cascade initiated on endosome	R-HSA-975155	 Reactome	 hsapiens	102	844	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-975155	92.0
+Toll Like Receptor 3 (TLR3) Cascade	R-HSA-168164	 Reactome	 hsapiens	102	871	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-168164	94.0
+Oxidative Stress Induced Senescence	R-HSA-2559580	 Reactome	 hsapiens	102	1921	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2559580	125.0
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	R-HSA-975138	 Reactome	 hsapiens	101	794	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-975138	91.0
+Extra-nuclear estrogen signaling	R-HSA-9009391	 Reactome	 hsapiens	101	852	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9009391	75.0
+EPH-Ephrin signaling	R-HSA-2682334	 Reactome	 hsapiens	101	998	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2682334	91.0
+Antigen Presentation: Folding, assembly and peptide loading of class I MHC	R-HSA-983170	 Reactome	 hsapiens	101	2407	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-983170	22.0
+RAC3 GTPase cycle	R-HSA-9013423	 Reactome	 hsapiens	100	347	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9013423	94.0
+SARS-CoV-2 Infection	R-HSA-9694516	 Reactome	 hsapiens	100	512	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9694516	29.0
+Cellular response to heat stress	R-HSA-3371556	 Reactome	 hsapiens	100	2168	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3371556	89.0
+Neurotransmitter release cycle	R-HSA-112310	 Reactome	 hsapiens	99	1359	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-112310	50.0
+PCP/CE pathway	R-HSA-4086400	 Reactome	 hsapiens	99	1426	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-4086400	92.0
+Anchoring of the basal body to the plasma membrane	R-HSA-5620912	 Reactome	 hsapiens	99	4902	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5620912	98.0
+Mitochondrial translation	R-HSA-5368287	 Reactome	 hsapiens	99	7044	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5368287	92.0
+UCH proteinases	R-HSA-5689603	 Reactome	 hsapiens	98	1551	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5689603	102.0
+ABC transporter disorders	R-HSA-5619084	 Reactome	 hsapiens	98	1557	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5619084	68.0
+Eukaryotic Translation Elongation	R-HSA-156842	 Reactome	 hsapiens	98	4642	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-156842	92.0
+Pyruvate metabolism and Citric Acid (TCA) cycle	R-HSA-71406	 Reactome	 hsapiens	97	1030	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-71406	54.0
+Costimulation by the CD28 family	R-HSA-388841	 Reactome	 hsapiens	97	1392	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-388841	69.0
+Signaling by FGFR	R-HSA-190236	 Reactome	 hsapiens	97	2360	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-190236	87.0
+Regulation of TP53 Activity through Phosphorylation	R-HSA-6804756	 Reactome	 hsapiens	95	975	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6804756	92.0
+Unfolded Protein Response (UPR)	R-HSA-381119	 Reactome	 hsapiens	94	216	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-381119	94.0
+Sulfur amino acid metabolism	R-HSA-1614635	 Reactome	 hsapiens	94	441	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1614635	27.0
+Toll Like Receptor 5 (TLR5) Cascade	R-HSA-168176	 Reactome	 hsapiens	94	767	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-168176	85.0
+MyD88 cascade initiated on plasma membrane	R-HSA-975871	 Reactome	 hsapiens	94	767	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-975871	85.0
+MAPK6/MAPK4 signaling	R-HSA-5687128	 Reactome	 hsapiens	94	1427	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5687128	89.0
+Transcriptional regulation of white adipocyte differentiation	R-HSA-381340	 Reactome	 hsapiens	94	1696	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-381340	84.0
+Switching of origins to a post-replicative state	R-HSA-69052	 Reactome	 hsapiens	93	1765	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-69052	91.0
+Peptide chain elongation	R-HSA-156902	 Reactome	 hsapiens	93	4622	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-156902	88.0
+Mitochondrial translation initiation	R-HSA-5368286	 Reactome	 hsapiens	93	6037	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5368286	86.0
+RAC2 GTPase cycle	R-HSA-9013404	 Reactome	 hsapiens	92	321	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9013404	88.0
+Lipoprotein metabolism	R-HSA-174824	 Reactome	 hsapiens	92	573	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-174824	65.0
+Global Genome Nucleotide Excision Repair (GG-NER)	R-HSA-5696399	 Reactome	 hsapiens	92	1891	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5696399	84.0
+Meiosis	R-HSA-1500620	 Reactome	 hsapiens	92	2131	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1500620	118.0
+Regulation of PLK1 Activity at G2/M Transition	R-HSA-2565942	 Reactome	 hsapiens	92	2917	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2565942	88.0
+Activation of HOX genes during differentiation	R-HSA-5619507	 Reactome	 hsapiens	92	4792	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5619507	121.0
+APC/C-mediated degradation of cell cycle proteins	R-HSA-174143	 Reactome	 hsapiens	92	5542	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-174143	88.0
+Activation of NMDA receptors and postsynaptic events	R-HSA-442755	 Reactome	 hsapiens	91	1303	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-442755	75.0
+Mitochondrial translation elongation	R-HSA-5389840	 Reactome	 hsapiens	91	4608	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5389840	87.0
+Mitochondrial translation termination	R-HSA-5419276	 Reactome	 hsapiens	91	4697	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5419276	87.0
+Peroxisomal lipid metabolism	R-HSA-390918	 Reactome	 hsapiens	90	377	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-390918	24.0
+Inositol phosphate metabolism	R-HSA-1483249	 Reactome	 hsapiens	90	879	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1483249	50.0
+Signaling by Insulin receptor	R-HSA-74752	 Reactome	 hsapiens	90	942	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-74752	78.0
+Pre-NOTCH Expression and Processing	R-HSA-1912422	 Reactome	 hsapiens	90	1155	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1912422	109.0
+Antiviral mechanism by IFN-stimulated genes	R-HSA-1169410	 Reactome	 hsapiens	90	1240	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1169410	80.0
+Regulation of mRNA stability by proteins that bind AU-rich elements	R-HSA-450531	 Reactome	 hsapiens	90	1265	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-450531	88.0
+Downstream signaling events of B Cell Receptor (BCR)	R-HSA-1168372	 Reactome	 hsapiens	90	1614	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1168372	83.0
+Processing of DNA double-strand break ends	R-HSA-5693607	 Reactome	 hsapiens	90	1890	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5693607	98.0
+Biosynthesis of DHA-derived SPMs	R-HSA-9018677	 Reactome	 hsapiens	89	487	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9018677	17.0
+Metabolism of fat-soluble vitamins	R-HSA-6806667	 Reactome	 hsapiens	89	1164	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6806667	38.0
+Cyclin A:Cdk2-associated events at S phase entry	R-HSA-69656	 Reactome	 hsapiens	89	1851	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-69656	85.0
+Oncogenic MAPK signaling	R-HSA-6802957	 Reactome	 hsapiens	89	3389	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6802957	82.0
+SARS-CoV-1 Infection	R-HSA-9678108	 Reactome	 hsapiens	88	419	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9678108	21.0
+DNA Replication Pre-Initiation	R-HSA-69002	 Reactome	 hsapiens	88	1751	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-69002	85.0
+COPI-dependent Golgi-to-ER retrograde traffic	R-HSA-6811434	 Reactome	 hsapiens	88	1842	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6811434	82.0
+Heparan sulfate/heparin (HS-GAG) metabolism	R-HSA-1638091	 Reactome	 hsapiens	87	769	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1638091	53.0
+RNA Polymerase I Transcription	R-HSA-73864	 Reactome	 hsapiens	87	1296	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-73864	111.0
+Cyclin E associated events during G1/S transition	R-HSA-69202	 Reactome	 hsapiens	87	1843	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-69202	83.0
+Glycosphingolipid metabolism	R-HSA-1660662	 Reactome	 hsapiens	86	381	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1660662	37.0
+DDX58/IFIH1-mediated induction of interferon-alpha/beta	R-HSA-168928	 Reactome	 hsapiens	86	602	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-168928	81.0
+Nuclear Envelope (NE) Reassembly	R-HSA-2995410	 Reactome	 hsapiens	86	958	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2995410	73.0
+RNA Polymerase I Promoter Clearance	R-HSA-73854	 Reactome	 hsapiens	86	1237	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-73854	110.0
+Hedgehog 'on' state	R-HSA-5632684	 Reactome	 hsapiens	86	2023	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5632684	84.0
+Transport of Mature Transcript to Cytoplasm	R-HSA-72202	 Reactome	 hsapiens	86	4824	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-72202	84.0
+G alpha (12/13) signalling events	R-HSA-416482	 Reactome	 hsapiens	85	783	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-416482	80.0
+Senescence-Associated Secretory Phenotype (SASP)	R-HSA-2559582	 Reactome	 hsapiens	85	1096	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2559582	112.0
+Signaling by NOTCH4	R-HSA-9013694	 Reactome	 hsapiens	85	1253	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9013694	82.0
+Degradation of beta-catenin by the destruction complex	R-HSA-195253	 Reactome	 hsapiens	85	2428	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-195253	83.0
+Transcription-Coupled Nucleotide Excision Repair (TC-NER)	R-HSA-6781827	 Reactome	 hsapiens	85	3126	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6781827	79.0
+Nicotinate metabolism	R-HSA-196807	 Reactome	 hsapiens	84	394	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-196807	27.0
+Formation of the cornified envelope	R-HSA-6809371	 Reactome	 hsapiens	84	800	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6809371	71.0
+Sensory processing of sound	R-HSA-9659379	 Reactome	 hsapiens	84	2065	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9659379	74.0
+Regulation of APC/C activators between G1/S and early anaphase	R-HSA-176408	 Reactome	 hsapiens	83	1896	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-176408	81.0
+Negative epigenetic regulation of rRNA expression	R-HSA-5250941	 Reactome	 hsapiens	83	2713	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5250941	108.0
+Centrosome maturation	R-HSA-380287	 Reactome	 hsapiens	83	3566	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-380287	82.0
+Protein ubiquitination	R-HSA-8852135	 Reactome	 hsapiens	82	1300	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8852135	79.0
+Circadian Clock	R-HSA-400253	 Reactome	 hsapiens	81	452	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-400253	70.0
+Interconversion of nucleotide di- and triphosphates	R-HSA-499943	 Reactome	 hsapiens	81	1119	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-499943	26.0
+G2/M DNA damage checkpoint	R-HSA-69473	 Reactome	 hsapiens	81	1473	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-69473	95.0
+Signaling by FGFR2	R-HSA-5654738	 Reactome	 hsapiens	81	1820	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5654738	73.0
+Cellular response to hypoxia	R-HSA-1234174	 Reactome	 hsapiens	81	2418	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1234174	75.0
+Recruitment of mitotic centrosome proteins and complexes	R-HSA-380270	 Reactome	 hsapiens	81	3357	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-380270	82.0
+Transcription of the HIV genome	R-HSA-167172	 Reactome	 hsapiens	81	3999	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-167172	71.0
+Cell death signalling via NRAGE, NRIF and NADE	R-HSA-204998	 Reactome	 hsapiens	80	385	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-204998	76.0
+Sphingolipid de novo biosynthesis	R-HSA-1660661	 Reactome	 hsapiens	80	432	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1660661	41.0
+ROS and RNS production in phagocytes	R-HSA-1222556	 Reactome	 hsapiens	80	748	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1222556	35.0
+Signaling by TGF-beta Receptor Complex	R-HSA-170834	 Reactome	 hsapiens	80	757	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-170834	73.0
+Metabolism of polyamines	R-HSA-351202	 Reactome	 hsapiens	80	1284	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-351202	58.0
+Regulation of RUNX2 expression and activity	R-HSA-8939902	 Reactome	 hsapiens	80	1951	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8939902	73.0
+RNA polymerase II transcribes snRNA genes	R-HSA-6807505	 Reactome	 hsapiens	80	4481	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6807505	74.0
+Fatty acyl-CoA biosynthesis	R-HSA-75105	 Reactome	 hsapiens	79	459	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-75105	28.0
+Iron uptake and transport	R-HSA-917937	 Reactome	 hsapiens	79	713	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-917937	57.0
+Retinoid metabolism and transport	R-HSA-975634	 Reactome	 hsapiens	79	1144	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-975634	38.0
+ISG15 antiviral mechanism	R-HSA-1169408	 Reactome	 hsapiens	79	1208	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1169408	72.0
+Positive epigenetic regulation of rRNA expression	R-HSA-5250913	 Reactome	 hsapiens	79	2275	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5250913	106.0
+Diseases associated with O-glycosylation of proteins	R-HSA-3906995	 Reactome	 hsapiens	78	132	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3906995	67.0
+RHOG GTPase cycle	R-HSA-9013408	 Reactome	 hsapiens	78	221	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9013408	74.0
+RHOC GTPase cycle	R-HSA-9013106	 Reactome	 hsapiens	78	260	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9013106	74.0
+FOXO-mediated transcription	R-HSA-9614085	 Reactome	 hsapiens	78	264	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9614085	64.0
+Diseases of programmed cell death	R-HSA-9645723	 Reactome	 hsapiens	78	754	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9645723	99.0
+RHO GTPases activate PKNs	R-HSA-5625740	 Reactome	 hsapiens	78	1307	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5625740	95.0
+Regulation of HSF1-mediated heat shock response	R-HSA-3371453	 Reactome	 hsapiens	78	2041	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3371453	69.0
+Interleukin-17 signaling	R-HSA-448424	 Reactome	 hsapiens	77	496	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-448424	72.0
+Cytosolic sensors of pathogen-associated DNA	R-HSA-1834949	 Reactome	 hsapiens	77	585	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1834949	63.0
+Signaling by NOTCH1	R-HSA-1980143	 Reactome	 hsapiens	77	591	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1980143	74.0
+SUMOylation of DNA damage response and repair proteins	R-HSA-3108214	 Reactome	 hsapiens	77	841	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3108214	77.0
+Transcriptional regulation by small RNAs	R-HSA-5578749	 Reactome	 hsapiens	77	1432	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5578749	106.0
+NoRC negatively regulates rRNA expression	R-HSA-427413	 Reactome	 hsapiens	77	2264	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-427413	105.0
+COPII-mediated vesicle transport	R-HSA-204005	 Reactome	 hsapiens	77	2317	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-204005	68.0
+Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins	R-HSA-176814	 Reactome	 hsapiens	77	3312	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-176814	77.0
+Transport of Mature mRNA derived from an Intron-Containing Transcript	R-HSA-159236	 Reactome	 hsapiens	77	4454	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-159236	75.0
+Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol	R-HSA-193368	 Reactome	 hsapiens	76	492	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-193368	24.0
+Collagen biosynthesis and modifying enzymes	R-HSA-1650814	 Reactome	 hsapiens	76	2725	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1650814	67.0
+APC/C:Cdc20 mediated degradation of mitotic proteins	R-HSA-176409	 Reactome	 hsapiens	76	3261	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-176409	76.0
+Signaling by MET	R-HSA-6806834	 Reactome	 hsapiens	75	594	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6806834	67.0
+Ca2+ pathway	R-HSA-4086398	 Reactome	 hsapiens	75	700	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-4086398	56.0
+CDK-mediated phosphorylation and removal of Cdc6	R-HSA-69017	 Reactome	 hsapiens	75	1511	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-69017	73.0
+RHOB GTPase cycle	R-HSA-9013026	 Reactome	 hsapiens	74	267	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9013026	70.0
+Gamma carboxylation, hypusine formation and arylsulfatase activation	R-HSA-163841	 Reactome	 hsapiens	74	309	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-163841	39.0
+Post NMDA receptor activation events	R-HSA-438064	 Reactome	 hsapiens	74	921	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-438064	63.0
+Regulation of PTEN stability and activity	R-HSA-8948751	 Reactome	 hsapiens	74	1326	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8948751	69.0
+APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint	R-HSA-179419	 Reactome	 hsapiens	74	2874	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-179419	74.0
+APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1	R-HSA-174178	 Reactome	 hsapiens	74	4046	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-174178	74.0
+Regulated Necrosis	R-HSA-5218859	 Reactome	 hsapiens	73	300	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5218859	57.0
+Porphyrin metabolism	R-HSA-189445	 Reactome	 hsapiens	73	309	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-189445	24.0
+Chondroitin sulfate/dermatan sulfate metabolism	R-HSA-1793185	 Reactome	 hsapiens	73	534	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1793185	50.0
+Xenobiotics	R-HSA-211981	 Reactome	 hsapiens	73	1076	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-211981	22.0
+O-linked glycosylation of mucins	R-HSA-913709	 Reactome	 hsapiens	73	1090	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-913709	63.0
+Orc1 removal from chromatin	R-HSA-68949	 Reactome	 hsapiens	73	1438	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-68949	71.0
+Sensory processing of sound by inner hair cells of the cochlea	R-HSA-9662360	 Reactome	 hsapiens	73	1745	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9662360	67.0
+Cdc20:Phospho-APC/C mediated degradation of Cyclin A	R-HSA-174184	 Reactome	 hsapiens	73	2820	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-174184	73.0
+Glyoxylate metabolism and glycine degradation	R-HSA-389661	 Reactome	 hsapiens	72	274	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-389661	29.0
+G-protein mediated events	R-HSA-112040	 Reactome	 hsapiens	72	649	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-112040	56.0
+Signaling by FGFR in disease	R-HSA-1226099	 Reactome	 hsapiens	72	1131	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1226099	64.0
+Activation of NF-kappaB in B cells	R-HSA-1169091	 Reactome	 hsapiens	72	1470	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1169091	67.0
+Hedgehog ligand biogenesis	R-HSA-5358346	 Reactome	 hsapiens	72	1563	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5358346	65.0
+HDR through Homologous Recombination (HRR)	R-HSA-5685942	 Reactome	 hsapiens	72	1953	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5685942	67.0
+Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha	R-HSA-1234176	 Reactome	 hsapiens	72	2370	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1234176	66.0
+Cholesterol biosynthesis	R-HSA-191273	 Reactome	 hsapiens	71	362	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-191273	24.0
+Cytosolic sulfonation of small molecules	R-HSA-156584	 Reactome	 hsapiens	71	373	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-156584	23.0
+Signaling by Retinoic Acid	R-HSA-5362517	 Reactome	 hsapiens	71	531	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5362517	40.0
+Ion transport by P-type ATPases	R-HSA-936837	 Reactome	 hsapiens	71	699	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-936837	31.0
+Loss of Nlp from mitotic centrosomes	R-HSA-380259	 Reactome	 hsapiens	71	2555	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-380259	70.0
+Semaphorin interactions	R-HSA-373755	 Reactome	 hsapiens	70	706	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-373755	65.0
+Metabolism of steroid hormones	R-HSA-196071	 Reactome	 hsapiens	70	794	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-196071	31.0
+Regulation of RAS by GAPs	R-HSA-5658442	 Reactome	 hsapiens	70	1385	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5658442	68.0
+G1/S DNA Damage Checkpoints	R-HSA-69615	 Reactome	 hsapiens	70	1388	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-69615	68.0
+DNA Double Strand Break Response	R-HSA-5693606	 Reactome	 hsapiens	70	1879	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5693606	78.0
+Signaling by BRAF and RAF fusions	R-HSA-6802952	 Reactome	 hsapiens	70	2154	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6802952	65.0
+MAP kinase activation	R-HSA-450294	 Reactome	 hsapiens	69	484	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-450294	64.0
+Mitochondrial protein import	R-HSA-1268020	 Reactome	 hsapiens	69	680	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1268020	65.0
+Synthesis of PIPs at the plasma membrane	R-HSA-1660499	 Reactome	 hsapiens	69	857	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1660499	50.0
+Transcriptional activation of mitochondrial biogenesis	R-HSA-2151201	 Reactome	 hsapiens	68	291	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2151201	56.0
+Nucleotide salvage	R-HSA-8956321	 Reactome	 hsapiens	68	332	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8956321	18.0
+Amyloid fiber formation	R-HSA-977225	 Reactome	 hsapiens	68	453	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-977225	90.0
+tRNA Aminoacylation	R-HSA-379724	 Reactome	 hsapiens	68	459	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-379724	42.0
+Regulation of PTEN gene transcription	R-HSA-8943724	 Reactome	 hsapiens	68	462	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8943724	55.0
+Extension of Telomeres	R-HSA-180786	 Reactome	 hsapiens	68	1266	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-180786	51.0
+p53-Dependent G1/S DNA damage checkpoint	R-HSA-69580	 Reactome	 hsapiens	68	1329	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-69580	66.0
+Assembly of the pre-replicative complex	R-HSA-68867	 Reactome	 hsapiens	68	1332	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-68867	68.0
+Regulation of HMOX1 expression and activity	R-HSA-9707587	 Reactome	 hsapiens	68	1366	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9707587	65.0
+rRNA modification in the nucleus and cytosol	R-HSA-6790901	 Reactome	 hsapiens	68	1480	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6790901	57.0
+RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function	R-HSA-8936459	 Reactome	 hsapiens	68	2116	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8936459	97.0
+APC/C:Cdc20 mediated degradation of Securin	R-HSA-174154	 Reactome	 hsapiens	68	2456	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-174154	68.0
+Glutathione conjugation	R-HSA-156590	 Reactome	 hsapiens	67	350	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-156590	34.0
+PLC beta mediated events	R-HSA-112043	 Reactome	 hsapiens	67	426	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-112043	51.0
+Signaling by ERBB4	R-HSA-1236394	 Reactome	 hsapiens	67	437	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1236394	58.0
+Selective autophagy	R-HSA-9663891	 Reactome	 hsapiens	67	469	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9663891	63.0
+Amino acid transport across the plasma membrane	R-HSA-352230	 Reactome	 hsapiens	67	719	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-352230	30.0
+GABA receptor activation	R-HSA-977443	 Reactome	 hsapiens	67	782	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-977443	57.0
+TP53 Regulates Transcription of DNA Repair Genes	R-HSA-6796648	 Reactome	 hsapiens	67	1666	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6796648	63.0
+Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks	R-HSA-5693565	 Reactome	 hsapiens	67	1853	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5693565	77.0
+RNA Polymerase II Transcription Termination	R-HSA-73856	 Reactome	 hsapiens	67	1918	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-73856	67.0
+Triglyceride metabolism	R-HSA-8979227	 Reactome	 hsapiens	66	247	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8979227	28.0
+Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways	R-HSA-168643	 Reactome	 hsapiens	66	274	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-168643	52.0
+Metabolism of cofactors	R-HSA-8978934	 Reactome	 hsapiens	66	307	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8978934	21.0
+Gluconeogenesis	R-HSA-70263	 Reactome	 hsapiens	66	341	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-70263	34.0
+Peroxisomal protein import	R-HSA-9033241	 Reactome	 hsapiens	66	581	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9033241	63.0
+Pre-NOTCH Transcription and Translation	R-HSA-1912408	 Reactome	 hsapiens	66	1008	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1912408	93.0
+Asymmetric localization of PCP proteins	R-HSA-4608870	 Reactome	 hsapiens	66	1127	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-4608870	64.0
+Defective CFTR causes cystic fibrosis	R-HSA-5678895	 Reactome	 hsapiens	66	1502	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5678895	61.0
+RNA Polymerase II Transcription Elongation	R-HSA-75955	 Reactome	 hsapiens	66	2154	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-75955	59.0
+Gap-filling DNA repair synthesis and ligation in TC-NER	R-HSA-6782210	 Reactome	 hsapiens	66	2234	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6782210	65.0
+Nuclear Events (kinase and transcription factor activation)	R-HSA-198725	 Reactome	 hsapiens	65	230	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-198725	61.0
+Regulation of cholesterol biosynthesis by SREBP (SREBF)	R-HSA-1655829	 Reactome	 hsapiens	65	380	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1655829	55.0
+Synthesis of PA	R-HSA-1483166	 Reactome	 hsapiens	65	417	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1483166	27.0
+Deadenylation-dependent mRNA decay	R-HSA-429914	 Reactome	 hsapiens	65	623	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-429914	55.0
+Insulin receptor signalling cascade	R-HSA-74751	 Reactome	 hsapiens	65	631	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-74751	54.0
+DNA Damage/Telomere Stress Induced Senescence	R-HSA-2559586	 Reactome	 hsapiens	65	704	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2559586	80.0
+Heme signaling	R-HSA-9707616	 Reactome	 hsapiens	64	315	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9707616	43.0
+Signaling by PTK6	R-HSA-8848021	 Reactome	 hsapiens	64	386	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8848021	54.0
+Signaling by Non-Receptor Tyrosine Kinases	R-HSA-9006927	 Reactome	 hsapiens	64	386	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9006927	54.0
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	R-HSA-2404192	 Reactome	 hsapiens	64	600	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2404192	54.0
+tRNA processing in the nucleus	R-HSA-6784531	 Reactome	 hsapiens	64	768	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6784531	55.0
+Formation of the beta-catenin:TCF transactivating complex	R-HSA-201722	 Reactome	 hsapiens	64	1088	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-201722	91.0
+Hh mutants abrogate ligand secretion	R-HSA-5387390	 Reactome	 hsapiens	64	1365	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5387390	59.0
+Autodegradation of Cdh1 by Cdh1:APC/C	R-HSA-174084	 Reactome	 hsapiens	64	2103	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-174084	64.0
+RHOQ GTPase cycle	R-HSA-9013406	 Reactome	 hsapiens	63	179	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9013406	59.0
+Transcriptional Regulation by MECP2	R-HSA-8986944	 Reactome	 hsapiens	63	206	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8986944	62.0
+NRAGE signals death through JNK	R-HSA-193648	 Reactome	 hsapiens	63	295	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-193648	59.0
+Signaling by PDGF	R-HSA-186797	 Reactome	 hsapiens	63	304	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-186797	53.0
+NCAM signaling for neurite out-growth	R-HSA-375165	 Reactome	 hsapiens	63	350	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-375165	58.0
+Detoxification of Reactive Oxygen Species	R-HSA-3299685	 Reactome	 hsapiens	63	429	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3299685	35.0
+Signaling by ERBB2	R-HSA-1227986	 Reactome	 hsapiens	63	768	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1227986	50.0
+Formation of RNA Pol II elongation complex	R-HSA-112382	 Reactome	 hsapiens	63	1932	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-112382	59.0
+HDACs deacetylate histones	R-HSA-3214815	 Reactome	 hsapiens	63	2146	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3214815	94.0
+Nucleobase biosynthesis	R-HSA-8956320	 Reactome	 hsapiens	62	378	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8956320	15.0
+Ion homeostasis	R-HSA-5578775	 Reactome	 hsapiens	62	1047	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5578775	54.0
+Degradation of GLI2 by the proteasome	R-HSA-5610783	 Reactome	 hsapiens	62	1190	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5610783	60.0
+GLI3 is processed to GLI3R by the proteasome	R-HSA-5610785	 Reactome	 hsapiens	62	1234	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5610785	60.0
+The role of GTSE1 in G2/M progression after G2 checkpoint	R-HSA-8852276	 Reactome	 hsapiens	62	1306	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8852276	60.0
+Degradation of GLI1 by the proteasome	R-HSA-5610780	 Reactome	 hsapiens	62	1333	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5610780	60.0
+Meiotic synapsis	R-HSA-1221632	 Reactome	 hsapiens	62	1378	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1221632	79.0
+Dectin-1 mediated noncanonical NF-kB signaling	R-HSA-5607761	 Reactome	 hsapiens	62	1402	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5607761	60.0
+B-WICH complex positively regulates rRNA expression	R-HSA-5250924	 Reactome	 hsapiens	62	1649	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5250924	91.0
+SCF(Skp2)-mediated degradation of p27/p21	R-HSA-187577	 Reactome	 hsapiens	62	1715	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-187577	60.0
+Signaling by NOTCH1 PEST Domain Mutants in Cancer	R-HSA-2644602	 Reactome	 hsapiens	61	405	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2644602	58.0
+Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer	R-HSA-2894858	 Reactome	 hsapiens	61	432	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2894858	58.0
+Signaling by NOTCH1 in Cancer	R-HSA-2644603	 Reactome	 hsapiens	61	456	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2644603	58.0
+Hh mutants are degraded by ERAD	R-HSA-5362768	 Reactome	 hsapiens	61	1364	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5362768	56.0
+NIK-->noncanonical NF-kB signaling	R-HSA-5676590	 Reactome	 hsapiens	61	1401	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5676590	59.0
+Sensory processing of sound by outer hair cells of the cochlea	R-HSA-9662361	 Reactome	 hsapiens	61	1579	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9662361	52.0
+Amino acids regulate mTORC1	R-HSA-9639288	 Reactome	 hsapiens	61	2205	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9639288	55.0
+Intrinsic Pathway for Apoptosis	R-HSA-109606	 Reactome	 hsapiens	60	214	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-109606	55.0
+Sialic acid metabolism	R-HSA-4085001	 Reactome	 hsapiens	60	317	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-4085001	33.0
+Transcriptional regulation of granulopoiesis	R-HSA-9616222	 Reactome	 hsapiens	60	557	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9616222	90.0
+Nuclear Envelope Breakdown	R-HSA-2980766	 Reactome	 hsapiens	60	856	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2980766	52.0
+ROS sensing by NFE2L2	R-HSA-8932339	 Reactome	 hsapiens	60	1295	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8932339	57.0
+Assembly of collagen fibrils and other multimeric structures	R-HSA-2022090	 Reactome	 hsapiens	59	133	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2022090	53.0
+RHOJ GTPase cycle	R-HSA-9013409	 Reactome	 hsapiens	59	169	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9013409	55.0
+Nicotinamide salvaging	R-HSA-197264	 Reactome	 hsapiens	59	198	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-197264	17.0
+The phototransduction cascade	R-HSA-2514856	 Reactome	 hsapiens	59	355	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2514856	37.0
+Generation of second messenger molecules	R-HSA-202433	 Reactome	 hsapiens	59	770	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-202433	33.0
+E3 ubiquitin ligases ubiquitinate target proteins	R-HSA-8866654	 Reactome	 hsapiens	59	1168	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8866654	59.0
+Signaling by EGFR	R-HSA-177929	 Reactome	 hsapiens	59	1178	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-177929	50.0
+CDT1 association with the CDC6:ORC:origin complex	R-HSA-68827	 Reactome	 hsapiens	59	1260	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-68827	59.0
+Stabilization of p53	R-HSA-69541	 Reactome	 hsapiens	59	1299	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-69541	57.0
+Interleukin-12 family signaling	R-HSA-447115	 Reactome	 hsapiens	58	266	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-447115	57.0
+Netrin-1 signaling	R-HSA-373752	 Reactome	 hsapiens	58	328	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-373752	49.0
+Branched-chain amino acid catabolism	R-HSA-70895	 Reactome	 hsapiens	58	455	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-70895	21.0
+Translocation of SLC2A4 (GLUT4) to the plasma membrane	R-HSA-1445148	 Reactome	 hsapiens	58	485	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1445148	53.0
+SUMOylation of chromatin organization proteins	R-HSA-4551638	 Reactome	 hsapiens	58	716	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-4551638	71.0
+Meiotic recombination	R-HSA-912446	 Reactome	 hsapiens	58	982	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-912446	86.0
+Signaling by FGFR1	R-HSA-5654736	 Reactome	 hsapiens	58	1119	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5654736	50.0
+mRNA 3'-end processing	R-HSA-72187	 Reactome	 hsapiens	58	1913	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-72187	58.0
+Synthesis of Prostaglandins (PG) and Thromboxanes (TX)	R-HSA-2162123	 Reactome	 hsapiens	57	214	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2162123	15.0
+The canonical retinoid cycle in rods (twilight vision)	R-HSA-2453902	 Reactome	 hsapiens	57	254	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2453902	21.0
+N-glycan trimming in the ER and Calnexin/Calreticulin cycle	R-HSA-532668	 Reactome	 hsapiens	57	504	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-532668	34.0
+DNA Damage Bypass	R-HSA-73893	 Reactome	 hsapiens	57	1117	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-73893	48.0
+Regulation of RUNX3 expression and activity	R-HSA-8941858	 Reactome	 hsapiens	57	1129	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8941858	55.0
+Degradation of AXIN	R-HSA-4641257	 Reactome	 hsapiens	57	1547	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-4641257	55.0
+Degradation of DVL	R-HSA-4641258	 Reactome	 hsapiens	57	1593	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-4641258	57.0
+Non-coding RNA Metabolism	R-HSA-194441	 Reactome	 hsapiens	57	1977	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-194441	53.0
+Metabolism of amine-derived hormones	R-HSA-209776	 Reactome	 hsapiens	56	277	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-209776	18.0
+Glucuronidation	R-HSA-156588	 Reactome	 hsapiens	56	367	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-156588	22.0
+Pyruvate metabolism	R-HSA-70268	 Reactome	 hsapiens	56	525	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-70268	29.0
+Negative regulation of NOTCH4 signaling	R-HSA-9604323	 Reactome	 hsapiens	56	1113	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9604323	54.0
+Formation of TC-NER Pre-Incision Complex	R-HSA-6781823	 Reactome	 hsapiens	56	1315	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6781823	54.0
+Diseases associated with glycosaminoglycan metabolism	R-HSA-3560782	 Reactome	 hsapiens	55	170	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3560782	36.0
+Synthesis of PC	R-HSA-1483191	 Reactome	 hsapiens	55	206	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1483191	20.0
+Cargo trafficking to the periciliary membrane	R-HSA-5620920	 Reactome	 hsapiens	55	731	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5620920	51.0
+Retrograde transport at the Trans-Golgi-Network	R-HSA-6811440	 Reactome	 hsapiens	55	850	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6811440	49.0
+AUF1 (hnRNP D0) binds and destabilizes mRNA	R-HSA-450408	 Reactome	 hsapiens	55	1059	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-450408	56.0
+SCF-beta-TrCP mediated degradation of Emi1	R-HSA-174113	 Reactome	 hsapiens	55	1508	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-174113	55.0
+Vif-mediated degradation of APOBEC3G	R-HSA-180585	 Reactome	 hsapiens	55	1512	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-180585	54.0
+FBXL7 down-regulates AURKA during mitotic entry and in early mitosis	R-HSA-8854050	 Reactome	 hsapiens	55	1525	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8854050	54.0
+RNA Polymerase II Transcription Initiation And Promoter Clearance	R-HSA-76042	 Reactome	 hsapiens	55	2641	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-76042	47.0
+Apoptotic execution phase	R-HSA-75153	 Reactome	 hsapiens	54	80	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-75153	52.0
+TP53 Regulates Transcription of Cell Death Genes	R-HSA-5633008	 Reactome	 hsapiens	54	97	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5633008	44.0
+Inactivation, recovery and regulation of the phototransduction cascade	R-HSA-2514859	 Reactome	 hsapiens	54	250	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2514859	31.0
+Regulation of Apoptosis	R-HSA-169911	 Reactome	 hsapiens	54	1227	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-169911	53.0
+p53-Independent DNA Damage Response	R-HSA-69610	 Reactome	 hsapiens	54	1232	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-69610	52.0
+Ubiquitin-dependent degradation of Cyclin D	R-HSA-75815	 Reactome	 hsapiens	54	1233	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-75815	52.0
+Autodegradation of the E3 ubiquitin ligase COP1	R-HSA-349425	 Reactome	 hsapiens	54	1234	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-349425	52.0
+DAG and IP3 signaling	R-HSA-1489509	 Reactome	 hsapiens	53	321	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1489509	43.0
+EPH-ephrin mediated repulsion of cells	R-HSA-3928665	 Reactome	 hsapiens	53	372	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3928665	49.0
+RMTs methylate histone arginines	R-HSA-3214858	 Reactome	 hsapiens	53	397	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3214858	79.0
+Condensation of Prophase Chromosomes	R-HSA-2299718	 Reactome	 hsapiens	53	1393	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2299718	74.0
+Vpu mediated degradation of CD4	R-HSA-180534	 Reactome	 hsapiens	53	1591	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-180534	52.0
+RNA Polymerase II Promoter Escape	R-HSA-73776	 Reactome	 hsapiens	53	2331	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-73776	47.0
+IRE1alpha activates chaperones	R-HSA-381070	 Reactome	 hsapiens	52	56	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-381070	52.0
+Signaling by NOTCH3	R-HSA-9012852	 Reactome	 hsapiens	52	287	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9012852	49.0
+Synthesis of Leukotrienes (LT) and Eoxins (EX)	R-HSA-2142691	 Reactome	 hsapiens	52	321	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2142691	20.0
+Signaling by FGFR2 in disease	R-HSA-5655253	 Reactome	 hsapiens	52	696	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5655253	44.0
+Tat-mediated elongation of the HIV-1 transcript	R-HSA-167246	 Reactome	 hsapiens	52	1329	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-167246	44.0
+HIV Transcription Elongation	R-HSA-167169	 Reactome	 hsapiens	52	1363	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-167169	44.0
+RNA Polymerase II HIV Promoter Escape	R-HSA-167162	 Reactome	 hsapiens	52	2270	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-167162	47.0
+TP53 Regulates Transcription of Cell Cycle Genes	R-HSA-6791312	 Reactome	 hsapiens	51	168	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6791312	48.0
+Synthesis of very long-chain fatty acyl-CoAs	R-HSA-75876	 Reactome	 hsapiens	51	278	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-75876	16.0
+Keratan sulfate/keratin metabolism	R-HSA-1638074	 Reactome	 hsapiens	51	294	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1638074	31.0
+G1 Phase	R-HSA-69236	 Reactome	 hsapiens	51	423	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-69236	47.0
+LXR-mediated signaling	R-HSA-9024446	 Reactome	 hsapiens	51	443	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9024446	47.0
+Carboxyterminal post-translational modifications of tubulin	R-HSA-8955332	 Reactome	 hsapiens	51	451	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8955332	34.0
+DAP12 interactions	R-HSA-2172127	 Reactome	 hsapiens	51	508	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2172127	41.0
+Telomere C-strand (Lagging Strand) Synthesis	R-HSA-174417	 Reactome	 hsapiens	51	921	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-174417	34.0
+Regulation of ornithine decarboxylase (ODC)	R-HSA-350562	 Reactome	 hsapiens	51	1181	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-350562	51.0
+Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer	R-HSA-2173793	 Reactome	 hsapiens	50	290	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2173793	44.0
+NOTCH1 Intracellular Domain Regulates Transcription	R-HSA-2122947	 Reactome	 hsapiens	50	308	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2122947	48.0
+Cytosolic tRNA aminoacylation	R-HSA-379716	 Reactome	 hsapiens	50	309	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-379716	24.0
+Citric acid cycle (TCA cycle)	R-HSA-71403	 Reactome	 hsapiens	50	364	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-71403	22.0
+Platelet Aggregation (Plug Formation)	R-HSA-76009	 Reactome	 hsapiens	50	487	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-76009	34.0
+TNF signaling	R-HSA-75893	 Reactome	 hsapiens	50	568	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-75893	44.0
+MTOR signalling	R-HSA-165159	 Reactome	 hsapiens	50	810	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-165159	41.0
+Signaling by FGFR3	R-HSA-5654741	 Reactome	 hsapiens	50	873	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5654741	40.0
+Formation of HIV elongation complex in the absence of HIV Tat	R-HSA-167152	 Reactome	 hsapiens	50	1220	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-167152	46.0
+Regulation of activated PAK-2p34 by proteasome mediated degradation	R-HSA-211733	 Reactome	 hsapiens	50	1223	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-211733	50.0
+Paradoxical activation of RAF signaling by kinase inactive BRAF	R-HSA-6802955	 Reactome	 hsapiens	50	1422	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6802955	45.0
+Signaling by moderate kinase activity BRAF mutants	R-HSA-6802946	 Reactome	 hsapiens	50	1426	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6802946	45.0
+Signaling by RAS mutants	R-HSA-6802949	 Reactome	 hsapiens	50	1430	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6802949	45.0
+Signaling downstream of RAS mutants	R-HSA-9649948	 Reactome	 hsapiens	50	1430	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9649948	45.0
+HSP90 chaperone cycle for SHRs	R-HSA-3371497	 Reactome	 hsapiens	50	1448	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3371497	38.0
+PKMTs methylate histone lysines	R-HSA-3214841	 Reactome	 hsapiens	49	237	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3214841	71.0
+Aflatoxin activation and detoxification	R-HSA-5423646	 Reactome	 hsapiens	49	268	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5423646	16.0
+Activation of gene expression by SREBF (SREBP)	R-HSA-2426168	 Reactome	 hsapiens	49	293	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2426168	42.0
+Signaling by SCF-KIT	R-HSA-1433557	 Reactome	 hsapiens	49	355	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1433557	43.0
+RNA Polymerase I Transcription Initiation	R-HSA-73762	 Reactome	 hsapiens	49	650	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-73762	47.0
+GABA B receptor activation	R-HSA-977444	 Reactome	 hsapiens	49	664	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-977444	43.0
+Smooth Muscle Contraction	R-HSA-445355	 Reactome	 hsapiens	49	807	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-445355	40.0
+Signaling by FGFR4	R-HSA-5654743	 Reactome	 hsapiens	49	972	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5654743	41.0
+Formation of HIV-1 elongation complex containing HIV-1 Tat	R-HSA-167200	 Reactome	 hsapiens	49	1189	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-167200	44.0
+XBP1(S) activates chaperone genes	R-HSA-381038	 Reactome	 hsapiens	48	47	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-381038	50.0
+Interleukin-12 signaling	R-HSA-9020591	 Reactome	 hsapiens	48	132	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9020591	47.0
+Blood group systems biosynthesis	R-HSA-9033658	 Reactome	 hsapiens	48	230	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9033658	20.0
+Plasma lipoprotein remodeling	R-HSA-8963899	 Reactome	 hsapiens	48	270	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8963899	27.0
+Ca-dependent events	R-HSA-111996	 Reactome	 hsapiens	48	288	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-111996	39.0
+Negative regulation of MAPK pathway	R-HSA-5675221	 Reactome	 hsapiens	48	364	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5675221	43.0
+Intra-Golgi traffic	R-HSA-6811438	 Reactome	 hsapiens	48	444	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6811438	44.0
+Inhibition of DNA recombination at telomere	R-HSA-9670095	 Reactome	 hsapiens	48	617	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9670095	68.0
+Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template	R-HSA-110313	 Reactome	 hsapiens	48	865	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-110313	39.0
+Interleukin-10 signaling	R-HSA-6783783	 Reactome	 hsapiens	47	79	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6783783	47.0
+Mitochondrial tRNA aminoacylation	R-HSA-379726	 Reactome	 hsapiens	47	150	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-379726	21.0
+SUMOylation of RNA binding proteins	R-HSA-4570464	 Reactome	 hsapiens	47	616	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-4570464	47.0
+Formation of Incision Complex in GG-NER	R-HSA-5696395	 Reactome	 hsapiens	47	783	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5696395	43.0
+Activation of rRNA Expression by ERCC6 (CSB) and EHMT2 (G9a)	R-HSA-427389	 Reactome	 hsapiens	47	910	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-427389	76.0
+Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3	R-HSA-5625886	 Reactome	 hsapiens	47	1120	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5625886	67.0
+Surfactant metabolism	R-HSA-5683826	 Reactome	 hsapiens	46	201	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5683826	25.0
+Pentose phosphate pathway	R-HSA-71336	 Reactome	 hsapiens	46	222	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-71336	15.0
+Signaling by FGFR1 in disease	R-HSA-5655302	 Reactome	 hsapiens	46	673	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5655302	38.0
+RNA Polymerase III Transcription	R-HSA-74158	 Reactome	 hsapiens	46	817	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-74158	41.0
+Signaling by RAF1 mutants	R-HSA-9656223	 Reactome	 hsapiens	46	836	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9656223	41.0
+SUMOylation of DNA replication proteins	R-HSA-4615885	 Reactome	 hsapiens	46	1047	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-4615885	45.0
+MAP2K and MAPK activation	R-HSA-5674135	 Reactome	 hsapiens	46	1582	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5674135	38.0
+Incretin synthesis, secretion, and inactivation	R-HSA-400508	 Reactome	 hsapiens	45	158	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-400508	23.0
+FLT3 Signaling	R-HSA-9607240	 Reactome	 hsapiens	45	221	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9607240	38.0
+PD-1 signaling	R-HSA-389948	 Reactome	 hsapiens	45	779	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-389948	23.0
+Phosphorylation of CD3 and TCR zeta chains	R-HSA-202427	 Reactome	 hsapiens	45	932	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-202427	22.0
+Regulation of beta-cell development	R-HSA-186712	 Reactome	 hsapiens	44	103	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-186712	41.0
+RIPK1-mediated regulated necrosis	R-HSA-5213460	 Reactome	 hsapiens	44	176	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5213460	29.0
+SUMOylation of transcription cofactors	R-HSA-3899300	 Reactome	 hsapiens	44	210	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3899300	45.0
+Deactivation of the beta-catenin transactivating complex	R-HSA-3769402	 Reactome	 hsapiens	44	228	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3769402	42.0
+VEGFR2 mediated vascular permeability	R-HSA-5218920	 Reactome	 hsapiens	44	363	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5218920	29.0
+COPI-independent Golgi-to-ER retrograde traffic	R-HSA-6811436	 Reactome	 hsapiens	44	849	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6811436	34.0
+Ovarian tumor domain proteases	R-HSA-5689896	 Reactome	 hsapiens	43	94	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5689896	38.0
+HS-GAG degradation	R-HSA-2024096	 Reactome	 hsapiens	43	173	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2024096	21.0
+Glycogen metabolism	R-HSA-8982491	 Reactome	 hsapiens	43	260	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8982491	29.0
+Calmodulin induced events	R-HSA-111933	 Reactome	 hsapiens	43	265	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-111933	37.0
+CaM pathway	R-HSA-111997	 Reactome	 hsapiens	43	265	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-111997	37.0
+Metabolism of folate and pterines	R-HSA-196757	 Reactome	 hsapiens	43	321	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-196757	15.0
+Formation of Fibrin Clot (Clotting Cascade)	R-HSA-140877	 Reactome	 hsapiens	43	338	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-140877	39.0
+EPHB-mediated forward signaling	R-HSA-3928662	 Reactome	 hsapiens	43	343	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3928662	33.0
+Transport of Mature mRNAs Derived from Intronless Transcripts	R-HSA-159234	 Reactome	 hsapiens	43	1046	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-159234	42.0
+Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)	R-HSA-381771	 Reactome	 hsapiens	42	128	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-381771	20.0
+Plasma lipoprotein clearance	R-HSA-8964043	 Reactome	 hsapiens	42	208	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8964043	31.0
+Regulation of TP53 Expression and Degradation	R-HSA-6806003	 Reactome	 hsapiens	42	249	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6806003	37.0
+Acyl chain remodelling of PE	R-HSA-1482839	 Reactome	 hsapiens	42	287	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1482839	20.0
+SIRT1 negatively regulates rRNA expression	R-HSA-427359	 Reactome	 hsapiens	42	775	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-427359	68.0
+Translocation of ZAP-70 to Immunological synapse	R-HSA-202430	 Reactome	 hsapiens	42	779	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-202430	19.0
+Transport of Mature mRNA Derived from an Intronless Transcript	R-HSA-159231	 Reactome	 hsapiens	42	951	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-159231	41.0
+NS1 Mediated Effects on Host Pathways	R-HSA-168276	 Reactome	 hsapiens	42	955	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-168276	37.0
+Fanconi Anemia Pathway	R-HSA-6783310	 Reactome	 hsapiens	42	1079	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6783310	40.0
+Export of Viral Ribonucleoproteins from Nucleus	R-HSA-168274	 Reactome	 hsapiens	42	1093	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-168274	31.0
+NGF-stimulated transcription	R-HSA-9031628	 Reactome	 hsapiens	41	100	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9031628	39.0
+O-glycosylation of TSR domain-containing proteins	R-HSA-5173214	 Reactome	 hsapiens	41	151	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5173214	37.0
+Regulation of TP53 Degradation	R-HSA-6804757	 Reactome	 hsapiens	41	247	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6804757	36.0
+Calnexin/calreticulin cycle	R-HSA-901042	 Reactome	 hsapiens	41	305	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-901042	26.0
+LXRs regulate gene expression linked to cholesterol transport and efflux	R-HSA-9029569	 Reactome	 hsapiens	41	359	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9029569	37.0
+RHO GTPases Activate WASPs and WAVEs	R-HSA-5663213	 Reactome	 hsapiens	41	689	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5663213	36.0
+Signaling by high-kinase activity BRAF mutants	R-HSA-6802948	 Reactome	 hsapiens	41	783	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6802948	34.0
+NEP/NS2 Interacts with the Cellular Export Machinery	R-HSA-168333	 Reactome	 hsapiens	41	1055	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-168333	31.0
+RAS processing	R-HSA-9648002	 Reactome	 hsapiens	40	219	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9648002	23.0
+Glucagon signaling in metabolic regulation	R-HSA-163359	 Reactome	 hsapiens	40	226	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-163359	33.0
+Regulation of TNFR1 signaling	R-HSA-5357905	 Reactome	 hsapiens	40	252	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5357905	35.0
+Acyl chain remodelling of PC	R-HSA-1482788	 Reactome	 hsapiens	40	282	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1482788	17.0
+Signalling to ERKs	R-HSA-187687	 Reactome	 hsapiens	40	354	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-187687	34.0
+HS-GAG biosynthesis	R-HSA-2022928	 Reactome	 hsapiens	40	371	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2022928	30.0
+RAF activation	R-HSA-5673000	 Reactome	 hsapiens	40	481	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5673000	36.0
+DNA Damage Recognition in GG-NER	R-HSA-5696394	 Reactome	 hsapiens	40	586	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5696394	38.0
+Defective B3GALTL causes Peters-plus syndrome (PpS)	R-HSA-5083635	 Reactome	 hsapiens	39	38	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5083635	36.0
+SUMOylation of intracellular receptors	R-HSA-4090294	 Reactome	 hsapiens	39	116	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-4090294	30.0
+Lewis blood group biosynthesis	R-HSA-9037629	 Reactome	 hsapiens	39	173	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9037629	18.0
+Transcriptional Regulation by VENTX	R-HSA-8853884	 Reactome	 hsapiens	39	223	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8853884	39.0
+RA biosynthesis pathway	R-HSA-5365859	 Reactome	 hsapiens	39	327	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5365859	21.0
+CD28 co-stimulation	R-HSA-389356	 Reactome	 hsapiens	39	339	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-389356	33.0
+Regulation of TP53 Activity through Acetylation	R-HSA-6804758	 Reactome	 hsapiens	39	375	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6804758	30.0
+Activation of ATR in response to replication stress	R-HSA-176187	 Reactome	 hsapiens	39	391	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-176187	37.0
+Glutamate binding, activation of AMPA receptors and synaptic plasticity	R-HSA-399721	 Reactome	 hsapiens	39	520	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-399721	31.0
+SUMOylation of ubiquitinylation proteins	R-HSA-3232142	 Reactome	 hsapiens	39	542	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3232142	38.0
+HDR through Single Strand Annealing (SSA)	R-HSA-5685938	 Reactome	 hsapiens	39	627	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5685938	37.0
+Sealing of the nuclear envelope (NE) by ESCRT-III	R-HSA-9668328	 Reactome	 hsapiens	39	655	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9668328	29.0
+Apoptotic cleavage of cellular proteins	R-HSA-111465	 Reactome	 hsapiens	38	44	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-111465	38.0
+FGFR2 mutant receptor activation	R-HSA-1839126	 Reactome	 hsapiens	38	261	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1839126	34.0
+CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling	R-HSA-442742	 Reactome	 hsapiens	38	425	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-442742	29.0
+Integrin signaling	R-HSA-354192	 Reactome	 hsapiens	38	460	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-354192	27.0
+Negative regulation of FGFR2 signaling	R-HSA-5654727	 Reactome	 hsapiens	38	525	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5654727	34.0
+Inwardly rectifying K+ channels	R-HSA-1296065	 Reactome	 hsapiens	38	537	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1296065	35.0
+Downstream signaling of activated FGFR1	R-HSA-5654687	 Reactome	 hsapiens	38	631	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5654687	31.0
+Nuclear Pore Complex (NPC) Disassembly	R-HSA-3301854	 Reactome	 hsapiens	38	699	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3301854	35.0
+Striated Muscle Contraction	R-HSA-390522	 Reactome	 hsapiens	38	957	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-390522	34.0
+Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation	R-HSA-8950505	 Reactome	 hsapiens	37	36	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8950505	38.0
+Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors	R-HSA-8864260	 Reactome	 hsapiens	37	98	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8864260	38.0
+RUNX2 regulates bone development	R-HSA-8941326	 Reactome	 hsapiens	37	110	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8941326	32.0
+Keratan sulfate biosynthesis	R-HSA-2022854	 Reactome	 hsapiens	37	239	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2022854	26.0
+FLT3 signaling in disease	R-HSA-9682385	 Reactome	 hsapiens	37	258	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9682385	28.0
+Recycling of bile acids and salts	R-HSA-159418	 Reactome	 hsapiens	37	338	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-159418	15.0
+Negative regulation of FGFR1 signaling	R-HSA-5654726	 Reactome	 hsapiens	37	483	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5654726	33.0
+Trafficking of AMPA receptors	R-HSA-399719	 Reactome	 hsapiens	37	498	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-399719	31.0
+Downstream signaling of activated FGFR2	R-HSA-5654696	 Reactome	 hsapiens	37	678	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5654696	30.0
+Resolution of D-Loop Structures	R-HSA-5693537	 Reactome	 hsapiens	37	741	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5693537	34.0
+EGFR downregulation	R-HSA-182971	 Reactome	 hsapiens	37	833	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-182971	31.0
+Synthesis of glycosylphosphatidylinositol (GPI)	R-HSA-162710	 Reactome	 hsapiens	36	130	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-162710	18.0
+Negative regulators of RIG-I/MDA5 signaling	R-HSA-936440	 Reactome	 hsapiens	36	136	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-936440	34.0
+Transcriptional Regulation by E2F6	R-HSA-8953750	 Reactome	 hsapiens	36	190	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8953750	35.0
+Oncogene Induced Senescence	R-HSA-2559585	 Reactome	 hsapiens	36	212	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2559585	33.0
+NOD1/2 Signaling Pathway	R-HSA-168638	 Reactome	 hsapiens	36	229	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-168638	33.0
+GABA synthesis, release, reuptake and degradation	R-HSA-888590	 Reactome	 hsapiens	36	295	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-888590	19.0
+TGF-beta receptor signaling activates SMADs	R-HSA-2173789	 Reactome	 hsapiens	36	357	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2173789	32.0
+Energy dependent regulation of mTOR by LKB1-AMPK	R-HSA-380972	 Reactome	 hsapiens	36	519	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-380972	29.0
+Activation of the pre-replicative complex	R-HSA-68962	 Reactome	 hsapiens	36	525	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-68962	33.0
+Regulation of Glucokinase by Glucokinase Regulatory Protein	R-HSA-170822	 Reactome	 hsapiens	36	569	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-170822	31.0
+Resolution of D-loop Structures through Holliday Junction Intermediates	R-HSA-5693568	 Reactome	 hsapiens	36	712	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5693568	33.0
+Transport of the SLBP Dependant Mature mRNA	R-HSA-159230	 Reactome	 hsapiens	36	801	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-159230	35.0
+Transport of Ribonucleoproteins into the Host Nucleus	R-HSA-168271	 Reactome	 hsapiens	36	809	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-168271	31.0
+Budding and maturation of HIV virion	R-HSA-162588	 Reactome	 hsapiens	36	970	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-162588	29.0
+Activation of Matrix Metalloproteinases	R-HSA-1592389	 Reactome	 hsapiens	35	79	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1592389	33.0
+Vitamin B5 (pantothenate) metabolism	R-HSA-199220	 Reactome	 hsapiens	35	125	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-199220	17.0
+DARPP-32 events	R-HSA-180024	 Reactome	 hsapiens	35	143	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-180024	23.0
+Nitric oxide stimulates guanylate cyclase	R-HSA-392154	 Reactome	 hsapiens	35	153	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-392154	22.0
+MAPK targets/ Nuclear events mediated by MAP kinases	R-HSA-450282	 Reactome	 hsapiens	35	159	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-450282	31.0
+Diseases of mitotic cell cycle	R-HSA-9675126	 Reactome	 hsapiens	35	248	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9675126	35.0
+Aberrant regulation of mitotic cell cycle due to RB1 defects	R-HSA-9687139	 Reactome	 hsapiens	35	248	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9687139	35.0
+TAK1 activates NFkB by phosphorylation and activation of IKKs complex	R-HSA-445989	 Reactome	 hsapiens	35	263	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-445989	29.0
+Endosomal Sorting Complex Required For Transport (ESCRT)	R-HSA-917729	 Reactome	 hsapiens	35	338	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-917729	32.0
+Thrombin signalling through proteinase activated receptors (PARs)	R-HSA-456926	 Reactome	 hsapiens	35	340	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-456926	32.0
+Platelet calcium homeostasis	R-HSA-418360	 Reactome	 hsapiens	35	431	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-418360	30.0
+Negative regulation of FGFR4 signaling	R-HSA-5654733	 Reactome	 hsapiens	35	459	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5654733	31.0
+DAP12 signaling	R-HSA-2424491	 Reactome	 hsapiens	35	484	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2424491	30.0
+Termination of translesion DNA synthesis	R-HSA-5656169	 Reactome	 hsapiens	35	526	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5656169	32.0
+SUMOylation of SUMOylation proteins	R-HSA-4085377	 Reactome	 hsapiens	35	594	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-4085377	34.0
+Transport of the SLBP independent Mature mRNA	R-HSA-159227	 Reactome	 hsapiens	35	706	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-159227	34.0
+FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	R-HSA-9615017	 Reactome	 hsapiens	34	84	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9615017	28.0
+Activation of BH3-only proteins	R-HSA-114452	 Reactome	 hsapiens	34	97	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-114452	30.0
+Nuclear signaling by ERBB4	R-HSA-1251985	 Reactome	 hsapiens	34	98	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1251985	32.0
+PERK regulates gene expression	R-HSA-381042	 Reactome	 hsapiens	34	128	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-381042	32.0
+SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription	R-HSA-2173796	 Reactome	 hsapiens	34	132	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2173796	32.0
+Regulation of MECP2 expression and activity	R-HSA-9022692	 Reactome	 hsapiens	34	140	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9022692	33.0
+Signaling by NOTCH2	R-HSA-1980145	 Reactome	 hsapiens	34	183	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1980145	33.0
+Synthesis of bile acids and bile salts via 27-hydroxycholesterol	R-HSA-193807	 Reactome	 hsapiens	34	228	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-193807	15.0
+Activation of kainate receptors upon glutamate binding	R-HSA-451326	 Reactome	 hsapiens	34	312	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-451326	32.0
+RNA Polymerase I Promoter Opening	R-HSA-73728	 Reactome	 hsapiens	34	322	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-73728	63.0
+Recycling pathway of L1	R-HSA-437239	 Reactome	 hsapiens	34	342	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-437239	28.0
+Downstream signaling of activated FGFR4	R-HSA-5654716	 Reactome	 hsapiens	34	585	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5654716	27.0
+Late endosomal microautophagy	R-HSA-9615710	 Reactome	 hsapiens	34	674	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9615710	34.0
+BMAL1:CLOCK,NPAS2 activates circadian gene expression	R-HSA-1368108	 Reactome	 hsapiens	33	178	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1368108	27.0
+Metal ion SLC transporters	R-HSA-425410	 Reactome	 hsapiens	33	178	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-425410	22.0
+Downregulation of ERBB2 signaling	R-HSA-8863795	 Reactome	 hsapiens	33	216	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8863795	29.0
+MET promotes cell motility	R-HSA-8875878	 Reactome	 hsapiens	33	235	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8875878	29.0
+Formation of the HIV-1 Early Elongation Complex	R-HSA-167158	 Reactome	 hsapiens	33	324	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-167158	33.0
+Signaling by ERBB2 in Cancer	R-HSA-1227990	 Reactome	 hsapiens	33	373	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1227990	26.0
+Negative regulation of FGFR3 signaling	R-HSA-5654732	 Reactome	 hsapiens	33	415	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5654732	29.0
+Disassembly of the destruction complex and recruitment of AXIN to the membrane	R-HSA-4641262	 Reactome	 hsapiens	33	429	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-4641262	31.0
+Telomere Extension By Telomerase	R-HSA-171319	 Reactome	 hsapiens	33	463	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-171319	23.0
+Processive synthesis on the C-strand of the telomere	R-HSA-174414	 Reactome	 hsapiens	33	468	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-174414	19.0
+Signaling by CSF3 (G-CSF)	R-HSA-9674555	 Reactome	 hsapiens	33	587	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9674555	30.0
+Pyroptosis	R-HSA-5620971	 Reactome	 hsapiens	32	124	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5620971	28.0
+Cyclin A/B1/B2 associated events during G2/M transition	R-HSA-69273	 Reactome	 hsapiens	32	195	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-69273	25.0
+Synthesis of PIPs at the Golgi membrane	R-HSA-1660514	 Reactome	 hsapiens	32	204	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1660514	18.0
+ER Quality Control Compartment (ERQC)	R-HSA-901032	 Reactome	 hsapiens	32	251	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-901032	21.0
+Myogenesis	R-HSA-525793	 Reactome	 hsapiens	32	257	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-525793	30.0
+Activated NOTCH1 Transmits Signal to the Nucleus	R-HSA-2122948	 Reactome	 hsapiens	32	286	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2122948	31.0
+Metalloprotease DUBs	R-HSA-5689901	 Reactome	 hsapiens	32	326	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5689901	37.0
+Adrenaline,noradrenaline inhibits insulin secretion	R-HSA-400042	 Reactome	 hsapiens	32	355	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-400042	28.0
+Glutamate Neurotransmitter Release Cycle	R-HSA-210500	 Reactome	 hsapiens	32	364	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-210500	18.0
+Signaling by ERBB2 KD Mutants	R-HSA-9664565	 Reactome	 hsapiens	32	370	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9664565	25.0
+Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC)	R-HSA-5619107	 Reactome	 hsapiens	32	495	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5619107	31.0
+Downstream signaling of activated FGFR3	R-HSA-5654708	 Reactome	 hsapiens	32	523	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5654708	25.0
+Collagen degradation	R-HSA-1442490	 Reactome	 hsapiens	31	50	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1442490	25.0
+Mitophagy	R-HSA-5205647	 Reactome	 hsapiens	31	129	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5205647	29.0
+Caspase activation via extrinsic apoptotic signalling pathway	R-HSA-5357769	 Reactome	 hsapiens	31	152	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5357769	27.0
+HDMs demethylate histones	R-HSA-3214842	 Reactome	 hsapiens	31	177	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3214842	50.0
+Signaling by EGFR in Cancer	R-HSA-1643713	 Reactome	 hsapiens	31	212	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1643713	25.0
+Acyl chain remodelling of PS	R-HSA-1482801	 Reactome	 hsapiens	31	219	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1482801	23.0
+Synthesis of PIPs at the early endosome membrane	R-HSA-1660516	 Reactome	 hsapiens	31	226	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1660516	16.0
+Signaling by NTRK2 (TRKB)	R-HSA-9006115	 Reactome	 hsapiens	31	231	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9006115	25.0
+A tetrasaccharide linker sequence is required for GAG synthesis	R-HSA-1971475	 Reactome	 hsapiens	31	250	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1971475	26.0
+Activation of G protein gated Potassium channels	R-HSA-1296041	 Reactome	 hsapiens	31	461	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1296041	29.0
+RUNX2 regulates osteoblast differentiation	R-HSA-8940973	 Reactome	 hsapiens	30	96	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8940973	24.0
+TRAF6 mediated IRF7 activation	R-HSA-933541	 Reactome	 hsapiens	30	163	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-933541	29.0
+Regulation of pyruvate dehydrogenase (PDH) complex	R-HSA-204174	 Reactome	 hsapiens	30	238	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-204174	15.0
+Norepinephrine Neurotransmitter Release Cycle	R-HSA-181430	 Reactome	 hsapiens	30	253	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-181430	18.0
+Sema4D in semaphorin signaling	R-HSA-400685	 Reactome	 hsapiens	30	256	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-400685	25.0
+SHC1 events in ERBB2 signaling	R-HSA-1250196	 Reactome	 hsapiens	30	274	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1250196	22.0
+Recognition of DNA damage by PCNA-containing replication complex	R-HSA-110314	 Reactome	 hsapiens	30	408	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-110314	30.0
+FRS-mediated FGFR2 signaling	R-HSA-5654700	 Reactome	 hsapiens	30	420	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5654700	25.0
+Signaling by FGFR3 point mutants in cancer	R-HSA-8853338	 Reactome	 hsapiens	30	424	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8853338	22.0
+Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)	R-HSA-5693554	 Reactome	 hsapiens	30	425	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5693554	26.0
+Signaling by FGFR3 in disease	R-HSA-5655332	 Reactome	 hsapiens	30	432	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5655332	22.0
+CD209 (DC-SIGN) signaling	R-HSA-5621575	 Reactome	 hsapiens	29	119	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5621575	21.0
+The role of Nef in HIV-1 replication and disease pathogenesis	R-HSA-164952	 Reactome	 hsapiens	29	134	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-164952	25.0
+PIWI-interacting RNA (piRNA) biogenesis	R-HSA-5601884	 Reactome	 hsapiens	29	150	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5601884	27.0
+TRAF6 mediated NF-kB activation	R-HSA-933542	 Reactome	 hsapiens	29	201	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-933542	24.0
+G0 and Early G1	R-HSA-1538133	 Reactome	 hsapiens	29	204	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1538133	27.0
+Long-term potentiation	R-HSA-9620244	 Reactome	 hsapiens	29	428	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9620244	24.0
+EGR2 and SOX10-mediated initiation of Schwann cell myelination	R-HSA-9619665	 Reactome	 hsapiens	28	70	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9619665	28.0
+HSF1-dependent transactivation	R-HSA-3371571	 Reactome	 hsapiens	28	111	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3371571	24.0
+WNT ligand biogenesis and trafficking	R-HSA-3238698	 Reactome	 hsapiens	28	127	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3238698	26.0
+G1/S-Specific Transcription	R-HSA-69205	 Reactome	 hsapiens	28	128	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-69205	28.0
+LDL clearance	R-HSA-8964038	 Reactome	 hsapiens	28	132	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8964038	17.0
+NOTCH3 Activation and Transmission of Signal to the Nucleus	R-HSA-9013507	 Reactome	 hsapiens	28	147	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9013507	25.0
+Signaling by FLT3 fusion proteins	R-HSA-9703465	 Reactome	 hsapiens	28	177	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9703465	19.0
+Termination of O-glycan biosynthesis	R-HSA-977068	 Reactome	 hsapiens	28	197	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-977068	24.0
+Deadenylation of mRNA	R-HSA-429947	 Reactome	 hsapiens	28	283	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-429947	24.0
+Downregulation of TGF-beta receptor signaling	R-HSA-2173788	 Reactome	 hsapiens	28	296	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2173788	26.0
+SHC-mediated cascade:FGFR2	R-HSA-5654699	 Reactome	 hsapiens	28	320	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5654699	23.0
+FRS-mediated FGFR1 signaling	R-HSA-5654693	 Reactome	 hsapiens	28	347	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5654693	23.0
+mTORC1-mediated signalling	R-HSA-166208	 Reactome	 hsapiens	28	352	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-166208	24.0
+Dopamine Neurotransmitter Release Cycle	R-HSA-212676	 Reactome	 hsapiens	28	494	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-212676	23.0
+Metabolism of Angiotensinogen to Angiotensins	R-HSA-2022377	 Reactome	 hsapiens	27	69	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2022377	17.0
+Constitutive Signaling by AKT1 E17K in Cancer	R-HSA-5674400	 Reactome	 hsapiens	27	105	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5674400	23.0
+ATF4 activates genes in response to endoplasmic reticulum  stress	R-HSA-380994	 Reactome	 hsapiens	27	109	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-380994	27.0
+Interleukin-7 signaling	R-HSA-1266695	 Reactome	 hsapiens	27	118	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1266695	36.0
+RAF-independent MAPK1/3 activation	R-HSA-112409	 Reactome	 hsapiens	27	139	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-112409	23.0
+Cellular hexose transport	R-HSA-189200	 Reactome	 hsapiens	27	145	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-189200	20.0
+Mitochondrial calcium ion transport	R-HSA-8949215	 Reactome	 hsapiens	27	163	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8949215	23.0
+Downregulation of SMAD2/3:SMAD4 transcriptional activity	R-HSA-2173795	 Reactome	 hsapiens	27	174	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2173795	23.0
+Regulation of IFNA signaling	R-HSA-912694	 Reactome	 hsapiens	27	230	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-912694	26.0
+RHO GTPases activate PAKs	R-HSA-5627123	 Reactome	 hsapiens	27	239	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5627123	24.0
+Gap-filling DNA repair synthesis and ligation in GG-NER	R-HSA-5696397	 Reactome	 hsapiens	27	325	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5696397	25.0
+FRS-mediated FGFR4 signaling	R-HSA-5654712	 Reactome	 hsapiens	27	360	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5654712	22.0
+Unblocking of NMDA receptors, glutamate binding and activation	R-HSA-438066	 Reactome	 hsapiens	27	434	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-438066	22.0
+Estrogen-dependent nuclear events downstream of ESR-membrane signaling	R-HSA-9634638	 Reactome	 hsapiens	26	63	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9634638	24.0
+Initiation of Nuclear Envelope (NE) Reformation	R-HSA-2995383	 Reactome	 hsapiens	26	65	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2995383	19.0
+Glycogen breakdown (glycogenolysis)	R-HSA-70221	 Reactome	 hsapiens	26	105	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-70221	17.0
+ERK/MAPK targets	R-HSA-198753	 Reactome	 hsapiens	26	113	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-198753	22.0
+Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models	R-HSA-8862803	 Reactome	 hsapiens	26	118	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8862803	22.0
+Neurodegenerative Diseases	R-HSA-8863678	 Reactome	 hsapiens	26	118	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8863678	22.0
+Intrinsic Pathway of Fibrin Clot Formation	R-HSA-140837	 Reactome	 hsapiens	26	156	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-140837	23.0
+Glycogen synthesis	R-HSA-3322077	 Reactome	 hsapiens	26	159	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3322077	16.0
+Signaling by ERBB2 TMD/JMD mutants	R-HSA-9665686	 Reactome	 hsapiens	26	241	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9665686	22.0
+Acetylcholine Neurotransmitter Release Cycle	R-HSA-264642	 Reactome	 hsapiens	26	242	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-264642	17.0
+SHC-mediated cascade:FGFR1	R-HSA-5654688	 Reactome	 hsapiens	26	289	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5654688	21.0
+TNFR1-induced NFkappaB signaling pathway	R-HSA-5357956	 Reactome	 hsapiens	26	303	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5357956	26.0
+Ras activation upon Ca2+ influx through NMDA receptor	R-HSA-442982	 Reactome	 hsapiens	26	353	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-442982	21.0
+G-protein activation	R-HSA-202040	 Reactome	 hsapiens	26	411	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-202040	24.0
+APC-Cdc20 mediated degradation of Nek2A	R-HSA-179409	 Reactome	 hsapiens	26	432	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-179409	26.0
+FGFR2 alternative splicing	R-HSA-6803529	 Reactome	 hsapiens	26	628	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6803529	26.0
+Assembly of active LPL and LIPC lipase complexes	R-HSA-8963889	 Reactome	 hsapiens	25	52	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8963889	18.0
+NOTCH3 Intracellular Domain Regulates Transcription	R-HSA-9013508	 Reactome	 hsapiens	25	140	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9013508	25.0
+Signalling to RAS	R-HSA-167044	 Reactome	 hsapiens	25	155	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-167044	20.0
+Chondroitin sulfate biosynthesis	R-HSA-2022870	 Reactome	 hsapiens	25	158	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2022870	20.0
+Common Pathway of Fibrin Clot Formation	R-HSA-140875	 Reactome	 hsapiens	25	171	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-140875	22.0
+Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants	R-HSA-1236382	 Reactome	 hsapiens	25	206	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1236382	19.0
+Signaling by Ligand-Responsive EGFR Variants in Cancer	R-HSA-5637815	 Reactome	 hsapiens	25	206	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5637815	19.0
+SHC-mediated cascade:FGFR4	R-HSA-5654719	 Reactome	 hsapiens	25	272	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5654719	20.0
+CTLA4 inhibitory signaling	R-HSA-389513	 Reactome	 hsapiens	25	278	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-389513	21.0
+FRS-mediated FGFR3 signaling	R-HSA-5654706	 Reactome	 hsapiens	25	320	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5654706	20.0
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane	R-HSA-9609523	 Reactome	 hsapiens	25	324	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9609523	22.0
+Inactivation of CSF3 (G-CSF) signaling	R-HSA-9705462	 Reactome	 hsapiens	25	354	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9705462	25.0
+VxPx cargo-targeting to cilium	R-HSA-5620916	 Reactome	 hsapiens	25	388	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5620916	21.0
+Synthesis, secretion, and deacylation of Ghrelin	R-HSA-422085	 Reactome	 hsapiens	24	46	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-422085	19.0
+Transcriptional regulation of pluripotent stem cells	R-HSA-452723	 Reactome	 hsapiens	24	104	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-452723	24.0
+Rap1 signalling	R-HSA-392517	 Reactome	 hsapiens	24	107	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-392517	16.0
+STING mediated induction of host immune responses	R-HSA-1834941	 Reactome	 hsapiens	24	140	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1834941	16.0
+RORA activates gene expression	R-HSA-1368082	 Reactome	 hsapiens	24	150	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1368082	18.0
+Sema4D induced cell migration and growth-cone collapse	R-HSA-416572	 Reactome	 hsapiens	24	191	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-416572	21.0
+IKK complex recruitment mediated by RIP1	R-HSA-937041	 Reactome	 hsapiens	24	192	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-937041	25.0
+RHO GTPases Activate ROCKs	R-HSA-5627117	 Reactome	 hsapiens	24	204	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5627117	20.0
+BBSome-mediated cargo-targeting to cilium	R-HSA-5620922	 Reactome	 hsapiens	24	305	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5620922	23.0
+Translesion Synthesis by POLH	R-HSA-110320	 Reactome	 hsapiens	24	332	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-110320	19.0
+APC/C:Cdc20 mediated degradation of Cyclin B	R-HSA-174048	 Reactome	 hsapiens	24	401	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-174048	24.0
+Regulation of gene expression in beta cells	R-HSA-210745	 Reactome	 hsapiens	23	30	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-210745	21.0
+TP53 Regulates Transcription of Genes Involved in Cytochrome C Release	R-HSA-6803204	 Reactome	 hsapiens	23	42	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6803204	20.0
+Interleukin-37 signaling	R-HSA-9008059	 Reactome	 hsapiens	23	55	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9008059	21.0
+Regulation of TP53 Activity through Methylation	R-HSA-6804760	 Reactome	 hsapiens	23	72	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-6804760	19.0
+Gastrin-CREB signalling pathway via PKC and MAPK	R-HSA-881907	 Reactome	 hsapiens	23	81	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-881907	18.0
+Apoptotic factor-mediated response	R-HSA-111471	 Reactome	 hsapiens	23	102	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-111471	20.0
+Pre-NOTCH Processing in Golgi	R-HSA-1912420	 Reactome	 hsapiens	23	117	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1912420	18.0
+NOTCH2 Activation and Transmission of Signal to the Nucleus	R-HSA-2979096	 Reactome	 hsapiens	23	135	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2979096	22.0
+ZBP1(DAI) mediated induction of type I IFNs	R-HSA-1606322	 Reactome	 hsapiens	23	142	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1606322	21.0
+activated TAK1 mediates p38 MAPK activation	R-HSA-450302	 Reactome	 hsapiens	23	162	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-450302	20.0
+Signaling by NODAL	R-HSA-1181150	 Reactome	 hsapiens	23	169	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1181150	20.0
+Presynaptic function of Kainate receptors	R-HSA-500657	 Reactome	 hsapiens	23	234	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-500657	21.0
+SHC-mediated cascade:FGFR3	R-HSA-5654704	 Reactome	 hsapiens	23	240	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5654704	18.0
+RNA Polymerase III Transcription Termination	R-HSA-73980	 Reactome	 hsapiens	23	242	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-73980	23.0
+GAB1 signalosome	R-HSA-180292	 Reactome	 hsapiens	23	252	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-180292	17.0
+Ephrin signaling	R-HSA-3928664	 Reactome	 hsapiens	23	303	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3928664	19.0
+Trafficking of GluR2-containing AMPA receptors	R-HSA-416993	 Reactome	 hsapiens	23	337	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-416993	17.0
+Serotonin Neurotransmitter Release Cycle	R-HSA-181429	 Reactome	 hsapiens	23	342	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-181429	18.0
+Defective B3GAT3 causes JDSSDHD	R-HSA-3560801	 Reactome	 hsapiens	22	41	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3560801	20.0
+PINK1-PRKN Mediated Mitophagy	R-HSA-5205685	 Reactome	 hsapiens	22	103	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5205685	22.0
+Chaperone Mediated Autophagy	R-HSA-9613829	 Reactome	 hsapiens	22	112	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9613829	21.0
+Nef-mediates down modulation of cell surface receptors by recruiting them to clathrin adapters	R-HSA-164938	 Reactome	 hsapiens	22	122	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-164938	20.0
+Depolymerisation of the Nuclear Lamina	R-HSA-4419969	 Reactome	 hsapiens	22	124	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-4419969	15.0
+JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1	R-HSA-450321	 Reactome	 hsapiens	22	145	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-450321	19.0
+RHO GTPases activate CIT	R-HSA-5625900	 Reactome	 hsapiens	22	154	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5625900	20.0
+Regulation of FZD by ubiquitination	R-HSA-4641263	 Reactome	 hsapiens	22	233	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-4641263	21.0
+Defective B4GALT7 causes EDS, progeroid type	R-HSA-3560783	 Reactome	 hsapiens	21	20	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3560783	20.0
+Defective B3GALT6 causes EDSP2 and SEMDJL1	R-HSA-4420332	 Reactome	 hsapiens	21	20	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-4420332	20.0
+Defective C1GALT1C1 causes Tn polyagglutination syndrome (TNPS)	R-HSA-5083632	 Reactome	 hsapiens	21	39	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5083632	18.0
+mRNA decay by 5' to 3' exoribonuclease	R-HSA-430039	 Reactome	 hsapiens	21	169	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-430039	15.0
+Defective GALNT3 causes familial hyperphosphatemic tumoral calcinosis (HFTC)	R-HSA-5083625	 Reactome	 hsapiens	20	19	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5083625	17.0
+Defects of Formation of Fibrin Clot (Clotting Cascade)	R-HSA-9651496	 Reactome	 hsapiens	20	45	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9651496	15.0
+Diseases of hemostasis	R-HSA-9671793	 Reactome	 hsapiens	20	45	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9671793	15.0
+SUMOylation of transcription factors	R-HSA-3232118	 Reactome	 hsapiens	20	58	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3232118	20.0
+NOTCH4 Intracellular Domain Regulates Transcription	R-HSA-9013695	 Reactome	 hsapiens	20	102	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9013695	20.0
+MET activates PTK2 signaling	R-HSA-8874081	 Reactome	 hsapiens	20	140	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8874081	18.0
+Signaling by FGFR2 IIIa TM	R-HSA-8851708	 Reactome	 hsapiens	20	141	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-8851708	19.0
+Phase 4 - resting membrane potential	R-HSA-5576886	 Reactome	 hsapiens	20	158	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5576886	19.0
+Phosphorylation of the APC/C	R-HSA-176412	 Reactome	 hsapiens	20	188	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-176412	20.0
+Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon	R-HSA-936964	 Reactome	 hsapiens	20	235	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-936964	18.0
+Spry regulation of FGF signaling	R-HSA-1295596	 Reactome	 hsapiens	19	82	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1295596	16.0
+TICAM1, RIP1-mediated IKK complex recruitment	R-HSA-168927	 Reactome	 hsapiens	19	84	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-168927	20.0
+RIP-mediated NFkB activation via ZBP1	R-HSA-1810476	 Reactome	 hsapiens	19	112	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1810476	17.0
+EPHA-mediated growth cone collapse	R-HSA-3928663	 Reactome	 hsapiens	19	122	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-3928663	16.0
+Ligand-dependent caspase activation	R-HSA-140534	 Reactome	 hsapiens	19	127	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-140534	17.0
+Transcription of E2F targets under negative control by DREAM complex	R-HSA-1362277	 Reactome	 hsapiens	19	128	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1362277	19.0
+FGFR1 ligand binding and activation	R-HSA-190242	 Reactome	 hsapiens	19	203	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-190242	16.0
+Beta-catenin phosphorylation cascade	R-HSA-196299	 Reactome	 hsapiens	19	206	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-196299	17.0
+Response of EIF2AK1 (HRI) to heme deficiency	R-HSA-9648895	 Reactome	 hsapiens	18	60	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9648895	15.0
+Polo-like kinase mediated events	R-HSA-156711	 Reactome	 hsapiens	18	68	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-156711	16.0
+NRIF signals cell death from the nucleus	R-HSA-205043	 Reactome	 hsapiens	18	89	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-205043	16.0
+Zinc transporters	R-HSA-435354	 Reactome	 hsapiens	18	125	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-435354	17.0
+MAP3K8 (TPL2)-dependent MAPK1/3 activation	R-HSA-5684264	 Reactome	 hsapiens	18	125	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-5684264	16.0
+GRB2 events in ERBB2 signaling	R-HSA-1963640	 Reactome	 hsapiens	18	138	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1963640	16.0
+CRMPs in Sema3A signaling	R-HSA-399956	 Reactome	 hsapiens	18	280	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-399956	16.0
+MECP2 regulates neuronal receptors and channels	R-HSA-9022699	 Reactome	 hsapiens	17	26	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9022699	17.0
+FOXO-mediated transcription of cell cycle genes	R-HSA-9617828	 Reactome	 hsapiens	17	57	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9617828	17.0
+Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects	R-HSA-9659787	 Reactome	 hsapiens	17	95	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9659787	17.0
+Defective binding of RB1 mutants to E2F1,(E2F2, E2F3)	R-HSA-9661069	 Reactome	 hsapiens	17	95	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9661069	17.0
+FOXO-mediated transcription of cell death genes	R-HSA-9614657	 Reactome	 hsapiens	16	48	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-9614657	16.0
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells	R-HSA-210744	 Reactome	 hsapiens	16	63	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-210744	16.0
+Formation of Senescence-Associated Heterochromatin Foci (SAHF)	R-HSA-2559584	 Reactome	 hsapiens	16	76	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2559584	16.0
+SUMOylation of DNA methylation proteins	R-HSA-4655427	 Reactome	 hsapiens	16	88	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-4655427	17.0
+Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1	R-HSA-1362300	 Reactome	 hsapiens	16	90	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-1362300	16.0
+Signaling by NOTCH1 HD Domain Mutants in Cancer	R-HSA-2691230	 Reactome	 hsapiens	16	132	 10-05-2021	 http://reactome.org/PathwayBrowser/#/R-HSA-2691230	15.0
