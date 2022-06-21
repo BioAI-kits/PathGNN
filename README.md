@@ -8,6 +8,12 @@ Bilin Liang1, Haifan Gong1,2, Lanxuan Liu1, Lu Lu1, Jie Xu1, *
 
 \* To whom correspondence should be addressed.
 
+In recent years, some deep learning models have been developed for biological pathway analysis and predicting clinical events. However, topological information hidden in pathways is still inaccessible, which limits those models’ further application in bioinformatics. To address these issues, we propose a novel model, called PathGNN, which constructs an interpretable graph representation learning model that is able to capture topological information hidden in biological pathways.
+
+
+<div align=center>
+<img src="https://github.com/BioAI-kits/PathGNN/blob/main/Figure/Figure.png" />
+</div>
 
 ---
 
@@ -20,9 +26,7 @@ we applied `model.py` to construct PathGNN models for predicting risk stratifica
 `submodel.py` is used to realize the `Subnetwork1` in our paper.
 
 
-<div align=center>
-<img src="https://github.com/BioAI-kits/PathGNN/blob/main/Figure/Figure.png" />
-</div>
+
 
 All rights reserved.
 
