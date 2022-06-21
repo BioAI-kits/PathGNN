@@ -21,7 +21,7 @@ we applied `model.py` to construct PathGNN models for predicting risk stratifica
 
 
 <div align=center>
-<img src="https://github.com/BioAI-kits/PathGNN/blob/main/Figure/Figure1.png" />
+<img src="https://github.com/BioAI-kits/PathGNN/blob/main/Figure/Figure.png" />
 </div>
 
 All rights reserved.
