@@ -477,7 +477,7 @@ if __name__ == '__main__':
 
     train_step = True
     # Get configures
-    config = get_config('config_Pan.ini')
+    config = get_config(sys.argv[1])
     ## device
     device = torch.device(config['DEFAULT']['device'])
     ## project root dir
@@ -524,8 +524,8 @@ if __name__ == '__main__':
     print('[INFO] Load dataset...\n')
     dataset = torch.load(path_dataset)
     # train_labels, train_dataset, test_labels, test_dataset = split_dataset(dataset=dataset, df_os_1=df_os_1,df_os_2=df_os_2, test_perc=0.2)
-    import sys
-    fold = int(sys.argv[1])
+    
+    fold = int(sys.argv[2])
     train_labels, train_dataset, test_labels, test_dataset = split_dataset_fold(dataset, df_os_1, df_os_2, folds=5 ,test_fold=fold)
     with open(save_log, 'a') as F:
         F.writelines('##Fold: {}\n'.format(fold))
