@@ -40,25 +40,25 @@ Parameters are configured via a file suffixed with `.ini`, like LUAD.ini file.
 
 **Building pathway graphs**
 
-This step is to build pathway graphs which are the input of PathGNN. (Due to dataset size, we splited LUAD dataset into three parts. Thus, merging them to obtain complete dataset. More details information refer: https://github.com/BioAI-kits/PathGNN/blob/main/Data/LUAD/clean/readme.md)
+This step is to build pathway graphs which are the input of PathGNN. 
+
+(Due to dataset size, we splited LUAD dataset into three parts. Thus, merging them to obtain complete dataset. More details information refer: https://github.com/BioAI-kits/PathGNN/blob/main/Data/LUAD/clean/readme.md)
 
 ```py
 python data.py LUAD.ini
 ```
 
-## 
+## Training PathGNN model
 
+Training PathGNN model through `model.py`. Here, this script need an argument, which is an int number among (1,2,3,4,5). This number indicates the fold number for 5 cross validation.  
 
-The gene expression and clinical datasets download from TCGA (https://portal.gdc.cancer.gov/); The pathway information download from Reactome database (https://reactome.org/). Then prepare using `data.py`. 
+```py
+python model.py 1
+```
 
-The preprocessed dataset is very large, you can contact us if you need it (liangbilin@pjlab.org.cn or xujie@pjlab.org.cn).
+---
 
-we applied `model.py` to construct PathGNN models for predicting risk stratification of cancer. `.ini` files were profiles for building model.
-
-`submodel.py` is used to realize the `Subnetwork1` in our paper.
-
-
-
+The gene expression and clinical datasets download from TCGA (https://portal.gdc.cancer.gov/); The pathway information download from Reactome database (https://reactome.org/). 
 
 All rights reserved.
 
