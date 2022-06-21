@@ -32,7 +32,7 @@ To use PathGNN, some dependences should be installed firstly, which includes
 
 Besides, R and two library (GSVA, limma) for R should be installed. 
 
-## To perform PathGNN
+## Process data
 
 **Parameters**
 
@@ -50,10 +50,10 @@ python data.py LUAD.ini
 
 ## Training PathGNN model
 
-Training PathGNN model through `model.py`. Here, this script need an argument, which is an int number among (1,2,3,4,5). This number indicates the fold number for 5 cross validation.  
+Training PathGNN model through `model.py`. Here, this script need an additional argument, which is an int number among (1,2,3,4,5). This number indicates the fold number for 5 cross validation.  
 
 ```py
-python model.py 1
+python model.py LUAD.ini 1
 ```
 
 ---
