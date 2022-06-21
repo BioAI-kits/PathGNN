@@ -18,7 +18,17 @@ Pathway-based analysis of transcriptomic data has shown greater stability of bio
 
 ## Dependence
 
-To use PathGNN, some dependences should be installed firstly, which includes Python (version, 3.9); Pytorch (version, 1.8); Pytorch Geometric (version, 2.0.3); captum; pandas; numpy; mygene; lifelines; sklearn. 
+To use PathGNN, some dependences should be installed firstly, which includes 
+
+- Python (version, 3.9)
+- Pytorch (version, 1.8)
+- Pytorch Geometric (version, 2.0.3)
+- captum
+- pandas
+- numpy
+- mygene
+- lifelines
+- sklearn. 
 
 Besides, R and two library (GSVA, limma) for R should be installed. 
 
