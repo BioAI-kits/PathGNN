@@ -18,7 +18,7 @@ from torch_geometric.data import Data
 #                              get configures                                 #
 #                                                                             #
 ###############################################################################
-def get_config(config_file = 'config_SKCM.ini'):
+def get_config(config_file = 'LUAD.ini'):
     config = configparser.ConfigParser()
     config.read(config_file)
     print('[INFO] Perform {} Project.\n'.format(config['DEFAULT']['project']))
@@ -441,7 +441,7 @@ def generate_gmt(dtail_file, save_file):
 ###############################################################################
 if __name__ == '__main__':
     # read configures
-    config = get_config()
+    config = get_config(sys.argv[1])
     project_root_dir = config['DEFAULT']['root_dir']
     data_dir = config['DATA']['data_dir']
 
