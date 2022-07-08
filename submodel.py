@@ -24,10 +24,13 @@ class Pathway_Score(torch.nn.Module):
         super(Pathway_Score, self).__init__()
         self.conv1 = SAGEConv(1, 8)
         self.pool1 = SAGPooling(8, ratio=0.8)
+        self.sns1 = Set2Set(8,3)
         self.conv2 = SAGEConv(8, 8)
         self.pool2 = SAGPooling(8, ratio=0.8)
+        self.sns2 = Set2Set(8,3)
         self.conv3 = SAGEConv(8, 8)
         self.pool3 = SAGPooling(8, ratio=0.8)
+        self.sns3 = Set2Set(8,3)
         self.lin = torch.nn.Sequential(
                                         torch.nn.Linear(48,16), 
                                         torch.nn.Tanh(),
@@ -41,19 +44,19 @@ class Pathway_Score(torch.nn.Module):
         # GNN-1
         x =torch.tanh(self.conv1(x, edge_index))
         x, edge_index, _,batch , _, _ = self.pool1(x, edge_index, None, batch)
-        x1 = Set2Set(8,3)(x, batch)
+        x1 = self.sns1(x, batch)
 
         # GNN-2
         x = GraphNorm(8)(x)
         x = torch.tanh(self.conv2(x, edge_index))  
         x, edge_index, _,batch , _, _ = self.pool2(x, edge_index, None, batch)
-        x2 = Set2Set(8,3)(x, batch)
+        x2 = self.sns2(x, batch)
 
         # GNN-3
         x = GraphNorm(8)(x)
         x = torch.tanh(self.conv3(x, edge_index))  
         x, edge_index, _,batch , _, _ = self.pool3(x, edge_index, None, batch)
-        x3 = Set2Set(8,3)(x, batch)
+        x3 = self.sns3(x, batch)
 
         x = torch.cat([x1,x2,x3], dim=1)
 
