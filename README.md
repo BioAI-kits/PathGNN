@@ -1,10 +1,8 @@
 # Risk Stratification and Pathway Analysis based on Interpretable Graph Representation Learning
 
-Bilin Liang1, Haifan Gong1,2, Lu Lu1, Jie Xu1, *
+Bilin Liang1, Haifan Gong1, Lu Lu1, Jie Xu1, *
 
 1 Shanghai Artificial Intelligence Laboratory, Shanghai, China
-
-2 Sun Yat-sen University, School of Computer Science and Engineering, China
 
 \* To whom correspondence should be addressed.
 
