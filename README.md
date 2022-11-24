@@ -1,4 +1,4 @@
-# Risk Stratification and Pathway Analysis based on Interpretable Graph Representation Learning
+# Risk stratification and pathway analysis based on graph neural network and interpretable algorithm
 
 Bilin Liang1, Haifan Gong1, Lu Lu1, Jie Xu1, *
 
