@@ -1,0 +1,17 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	3753	ENTREZID	3784	undirected	Binding
+ENTREZID	3753	ENTREZID	3757	undirected	Binding
+ENTREZID	23704	ENTREZID	3784	undirected	Binding
+ENTREZID	23704	ENTREZID	3757	undirected	Binding
+ENTREZID	10142	ENTREZID	3753	undirected	Binding
+ENTREZID	10142	ENTREZID	3784	undirected	Binding
+ENTREZID	10142	ENTREZID	23704	undirected	Binding
+ENTREZID	10142	ENTREZID	23630	undirected	Binding
+ENTREZID	10142	ENTREZID	10008	undirected	Binding
+ENTREZID	10142	ENTREZID	9992	undirected	Binding
+ENTREZID	23630	ENTREZID	3784	undirected	Binding
+ENTREZID	23630	ENTREZID	3757	undirected	Binding
+ENTREZID	10008	ENTREZID	3784	undirected	Binding
+ENTREZID	10008	ENTREZID	3757	undirected	Binding
+ENTREZID	9992	ENTREZID	3784	undirected	Binding
+ENTREZID	9992	ENTREZID	3757	undirected	Binding

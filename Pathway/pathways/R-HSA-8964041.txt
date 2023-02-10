@@ -1,0 +1,3 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	319	ENTREZID	338	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	319	ENTREZID	1071	directed	Control(Out: INHIBITION of BiochemicalReaction)

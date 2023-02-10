@@ -1,0 +1,32 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	1871	ENTREZID	990	directed	Control(Out: ACTIVATION of TemplateReaction)
+ENTREZID	5001	ENTREZID	5000	undirected	Binding
+ENTREZID	5001	ENTREZID	4998	undirected	Binding
+ENTREZID	5001	ENTREZID	990	undirected	Binding
+ENTREZID	5001	ENTREZID	84515	undirected	Binding
+ENTREZID	5001	ENTREZID	23594	undirected	Binding
+ENTREZID	5000	ENTREZID	4998	undirected	Binding
+ENTREZID	5000	ENTREZID	990	undirected	Binding
+ENTREZID	5000	ENTREZID	84515	undirected	Binding
+ENTREZID	5000	ENTREZID	23594	undirected	Binding
+ENTREZID	1869	ENTREZID	990	directed	Control(Out: ACTIVATION of TemplateReaction)
+ENTREZID	4998	ENTREZID	990	undirected	Binding
+ENTREZID	4998	ENTREZID	84515	undirected	Binding
+ENTREZID	4998	ENTREZID	23594	undirected	Binding
+ENTREZID	4999	ENTREZID	5001	undirected	Binding
+ENTREZID	4999	ENTREZID	5000	undirected	Binding
+ENTREZID	4999	ENTREZID	4998	undirected	Binding
+ENTREZID	4999	ENTREZID	990	undirected	Binding
+ENTREZID	4999	ENTREZID	23595	undirected	Binding
+ENTREZID	4999	ENTREZID	84515	undirected	Binding
+ENTREZID	4999	ENTREZID	23594	undirected	Binding
+ENTREZID	1870	ENTREZID	990	directed	Control(Out: ACTIVATION of TemplateReaction)
+ENTREZID	23595	ENTREZID	5001	undirected	Binding
+ENTREZID	23595	ENTREZID	5000	undirected	Binding
+ENTREZID	23595	ENTREZID	4998	undirected	Binding
+ENTREZID	23595	ENTREZID	990	undirected	Binding
+ENTREZID	23595	ENTREZID	84515	undirected	Binding
+ENTREZID	23595	ENTREZID	23594	undirected	Binding
+ENTREZID	84515	ENTREZID	990	undirected	Binding
+ENTREZID	23594	ENTREZID	990	undirected	Binding
+ENTREZID	23594	ENTREZID	84515	undirected	Binding

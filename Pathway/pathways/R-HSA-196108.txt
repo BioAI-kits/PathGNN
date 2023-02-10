@@ -1,0 +1,16 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	9256	ENTREZID	706	undirected	Binding
+ENTREZID	2230	ENTREZID	1583	undirected	Binding
+ENTREZID	2232	ENTREZID	1583	undirected	Binding
+ENTREZID	2232	ENTREZID	2230	undirected	Binding
+ENTREZID	2232	ENTREZID	112812	undirected	Binding
+ENTREZID	10948	ENTREZID	83930	undirected	Binding
+ENTREZID	112812	ENTREZID	1583	undirected	Binding
+ENTREZID	9256	ENTREZID	1583	directed	Control(indirect)
+ENTREZID	9256	ENTREZID	2230	directed	Control(indirect)
+ENTREZID	9256	ENTREZID	2232	directed	Control(indirect)
+ENTREZID	9256	ENTREZID	112812	directed	Control(indirect)
+ENTREZID	706	ENTREZID	1583	directed	Control(indirect)
+ENTREZID	706	ENTREZID	2230	directed	Control(indirect)
+ENTREZID	706	ENTREZID	2232	directed	Control(indirect)
+ENTREZID	706	ENTREZID	112812	directed	Control(indirect)

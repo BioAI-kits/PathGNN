@@ -1,0 +1,13 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	6582	ENTREZID	5243	directed	Control(indirect)
+ENTREZID	6582	ENTREZID	9429	directed	Control(indirect)
+ENTREZID	6580	ENTREZID	5243	directed	Control(indirect)
+ENTREZID	6580	ENTREZID	9429	directed	Control(indirect)
+ENTREZID	6581	ENTREZID	5243	directed	Control(indirect)
+ENTREZID	6581	ENTREZID	9429	directed	Control(indirect)
+ENTREZID	5243	ENTREZID	6582	directed	Control(indirect)
+ENTREZID	5243	ENTREZID	6580	directed	Control(indirect)
+ENTREZID	5243	ENTREZID	6581	directed	Control(indirect)
+ENTREZID	9429	ENTREZID	6582	directed	Control(indirect)
+ENTREZID	9429	ENTREZID	6580	directed	Control(indirect)
+ENTREZID	9429	ENTREZID	6581	directed	Control(indirect)

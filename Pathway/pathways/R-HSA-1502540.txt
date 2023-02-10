@@ -1,0 +1,43 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	8928	ENTREZID	4088	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	8928	ENTREZID	4089	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	8928	ENTREZID	10589	undirected	Binding
+ENTREZID	8928	ENTREZID	4087	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	10272	ENTREZID	3624	undirected	Binding
+ENTREZID	10272	ENTREZID	3625	undirected	Binding
+ENTREZID	3624	ENTREZID	3625	undirected	Binding
+ENTREZID	3624	ENTREZID	10468	undirected	Binding
+ENTREZID	3624	ENTREZID	92	undirected	Binding
+ENTREZID	3624	ENTREZID	91	undirected	Binding
+ENTREZID	3624	ENTREZID	4088	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	3624	ENTREZID	93	undirected	Binding
+ENTREZID	3624	ENTREZID	4087	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	3624	ENTREZID	130399	undirected	Binding
+ENTREZID	3625	ENTREZID	10468	undirected	Binding
+ENTREZID	3625	ENTREZID	92	undirected	Binding
+ENTREZID	3625	ENTREZID	91	undirected	Binding
+ENTREZID	3625	ENTREZID	4088	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	3625	ENTREZID	93	undirected	Binding
+ENTREZID	3625	ENTREZID	4087	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	3625	ENTREZID	130399	undirected	Binding
+ENTREZID	92	ENTREZID	91	undirected	Binding
+ENTREZID	92	ENTREZID	4088	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	92	ENTREZID	4087	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	92	ENTREZID	130399	undirected	Binding
+ENTREZID	91	ENTREZID	4088	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	91	ENTREZID	4087	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	4088	ENTREZID	8928	undirected	Binding
+ENTREZID	4088	ENTREZID	4089	undirected	Binding
+ENTREZID	4089	ENTREZID	8928	undirected	Binding
+ENTREZID	93	ENTREZID	91	undirected	Binding
+ENTREZID	93	ENTREZID	4088	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	93	ENTREZID	4087	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	93	ENTREZID	130399	undirected	Binding
+ENTREZID	10589	ENTREZID	8928	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	10589	ENTREZID	4088	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	10589	ENTREZID	4089	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	10589	ENTREZID	4087	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	4087	ENTREZID	8928	undirected	Binding
+ENTREZID	4087	ENTREZID	4089	undirected	Binding
+ENTREZID	130399	ENTREZID	4088	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	130399	ENTREZID	4087	directed	Control(Out: ACTIVATION of BiochemicalReaction)

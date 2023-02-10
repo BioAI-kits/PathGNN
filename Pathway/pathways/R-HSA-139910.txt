@@ -1,0 +1,5 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	5599	ENTREZID	140735	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	5599	ENTREZID	90427	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	140735	ENTREZID	90427	undirected	Binding
+ENTREZID	90427	ENTREZID	5599	directed	Control(In: ACTIVATION of BiochemicalReaction)

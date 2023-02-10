@@ -1,0 +1,24 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	629	ENTREZID	718	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	629	ENTREZID	718	undirected	Binding
+ENTREZID	629	ENTREZID	727	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	718	ENTREZID	727	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	718	ENTREZID	720	undirected	Binding
+ENTREZID	718	ENTREZID	721	undirected	Binding
+ENTREZID	717	ENTREZID	718	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	717	ENTREZID	718	undirected	Binding
+ENTREZID	717	ENTREZID	727	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	717	ENTREZID	720	undirected	Binding
+ENTREZID	717	ENTREZID	721	undirected	Binding
+ENTREZID	720	ENTREZID	718	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	721	ENTREZID	718	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	720	ENTREZID	727	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	721	ENTREZID	727	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	721	ENTREZID	718	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	100293534	ENTREZID	718	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	721	ENTREZID	718	undirected	Binding
+ENTREZID	100293534	ENTREZID	718	undirected	Binding
+ENTREZID	721	ENTREZID	727	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	100293534	ENTREZID	727	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	721	ENTREZID	717	undirected	Binding
+ENTREZID	100293534	ENTREZID	717	undirected	Binding

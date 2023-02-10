@@ -1,0 +1,30 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	2157	ENTREZID	8460	directed	Control(In: ACTIVATION of BiochemicalReaction)
+ENTREZID	2157	ENTREZID	8459	directed	Control(In: ACTIVATION of BiochemicalReaction)
+ENTREZID	2157	ENTREZID	2147	directed	Control(In: ACTIVATION of BiochemicalReaction)
+ENTREZID	2157	ENTREZID	2158	undirected	Binding
+ENTREZID	2157	ENTREZID	2159	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	2147	ENTREZID	2161	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	2158	ENTREZID	2159	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	2158	ENTREZID	2160	directed	Control(In: ACTIVATION of BiochemicalReaction)
+ENTREZID	2158	ENTREZID	2811	directed	Control(In: ACTIVATION of BiochemicalReaction)
+ENTREZID	2158	ENTREZID	2812	directed	Control(In: ACTIVATION of BiochemicalReaction)
+ENTREZID	2158	ENTREZID	2815	directed	Control(In: ACTIVATION of BiochemicalReaction)
+ENTREZID	2158	ENTREZID	2677	directed	Control(In: ACTIVATION of BiochemicalReaction)
+ENTREZID	2158	ENTREZID	2814	directed	Control(In: ACTIVATION of BiochemicalReaction)
+ENTREZID	2159	ENTREZID	2157	directed	Control(In: ACTIVATION of BiochemicalReaction)
+ENTREZID	2159	ENTREZID	2158	directed	Control(In: ACTIVATION of BiochemicalReaction)
+ENTREZID	2161	ENTREZID	2147	directed	Control(In: ACTIVATION of BiochemicalReaction)
+ENTREZID	3818	ENTREZID	2161	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	7450	ENTREZID	2157	undirected	Binding
+ENTREZID	7450	ENTREZID	2147	directed	Control(In: ACTIVATION of BiochemicalReaction)
+ENTREZID	2811	ENTREZID	2160	undirected	Binding
+ENTREZID	2811	ENTREZID	2812	undirected	Binding
+ENTREZID	2811	ENTREZID	2815	undirected	Binding
+ENTREZID	2811	ENTREZID	2814	undirected	Binding
+ENTREZID	2812	ENTREZID	2160	undirected	Binding
+ENTREZID	2812	ENTREZID	2814	undirected	Binding
+ENTREZID	2815	ENTREZID	2160	undirected	Binding
+ENTREZID	2815	ENTREZID	2812	undirected	Binding
+ENTREZID	2815	ENTREZID	2814	undirected	Binding
+ENTREZID	2814	ENTREZID	2160	undirected	Binding

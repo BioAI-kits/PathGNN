@@ -1,0 +1,5 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	90865	ENTREZID	9173	directed	Control(In: INHIBITION of BiochemicalReaction)
+ENTREZID	90865	ENTREZID	3556	undirected	Binding
+ENTREZID	9173	ENTREZID	90865	undirected	Binding
+ENTREZID	9173	ENTREZID	3556	undirected	Binding

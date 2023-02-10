@@ -1,0 +1,12 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	11168	ENTREZID	8815	undirected	Binding
+ENTREZID	11168	ENTREZID	60489	undirected	Binding
+ENTREZID	8815	ENTREZID	60489	undirected	Binding
+ENTREZID	3159	ENTREZID	11168	undirected	Binding
+ENTREZID	3159	ENTREZID	8815	undirected	Binding
+ENTREZID	3159	ENTREZID	60489	undirected	Binding
+ENTREZID	5478	ENTREZID	60489	undirected	Binding
+ENTREZID	60489	ENTREZID	11168	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	60489	ENTREZID	8815	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	60489	ENTREZID	3159	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	60489	ENTREZID	5478	directed	Control(Out: ACTIVATION of BiochemicalReaction)

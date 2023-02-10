@@ -1,0 +1,44 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	9743	ENTREZID	54509	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	8773	ENTREZID	54509	undirected	Binding
+ENTREZID	5296	ENTREZID	54509	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	1729	ENTREZID	54509	undirected	Binding
+ENTREZID	1730	ENTREZID	54509	undirected	Binding
+ENTREZID	23380	ENTREZID	54509	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	87	ENTREZID	54509	undirected	Binding
+ENTREZID	4001	ENTREZID	54509	undirected	Binding
+ENTREZID	5295	ENTREZID	54509	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	7112	ENTREZID	54509	undirected	Binding
+ENTREZID	4162	ENTREZID	54509	undirected	Binding
+ENTREZID	832	ENTREZID	54509	undirected	Binding
+ENTREZID	7879	ENTREZID	54509	undirected	Binding
+ENTREZID	60	ENTREZID	54509	undirected	Binding
+ENTREZID	9590	ENTREZID	54509	undirected	Binding
+ENTREZID	857	ENTREZID	54509	undirected	Binding
+ENTREZID	392	ENTREZID	54509	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	392	ENTREZID	54509	undirected	Binding
+ENTREZID	394	ENTREZID	54509	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	4650	ENTREZID	54509	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	8776	ENTREZID	54509	undirected	Binding
+ENTREZID	9341	ENTREZID	54509	undirected	Binding
+ENTREZID	65124	ENTREZID	54509	undirected	Binding
+ENTREZID	26092	ENTREZID	54509	undirected	Binding
+ENTREZID	57584	ENTREZID	54509	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	55240	ENTREZID	54509	undirected	Binding
+ENTREZID	85360	ENTREZID	54509	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	94134	ENTREZID	54509	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	81839	ENTREZID	54509	undirected	Binding
+ENTREZID	55789	ENTREZID	54509	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	23344	ENTREZID	54509	undirected	Binding
+ENTREZID	80728	ENTREZID	54509	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	80728	ENTREZID	54509	undirected	Binding
+ENTREZID	54509	ENTREZID	10409	undirected	Binding
+ENTREZID	54509	ENTREZID	445582	undirected	Binding
+ENTREZID	54509	ENTREZID	80115	undirected	Binding
+ENTREZID	54509	ENTREZID	26049	undirected	Binding
+ENTREZID	81624	ENTREZID	54509	undirected	Binding
+ENTREZID	29843	ENTREZID	54509	undirected	Binding
+ENTREZID	120	ENTREZID	54509	undirected	Binding
+ENTREZID	55971	ENTREZID	54509	undirected	Binding
+ENTREZID	10160	ENTREZID	54509	undirected	Binding
+ENTREZID	9497	ENTREZID	54509	undirected	Binding

@@ -1,0 +1,3 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	2157	ENTREZID	8460	directed	Control(In: ACTIVATION of BiochemicalReaction)
+ENTREZID	2157	ENTREZID	8459	directed	Control(In: ACTIVATION of BiochemicalReaction)

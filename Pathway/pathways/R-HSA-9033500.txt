@@ -1,0 +1,7 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	219743	ENTREZID	8540	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	219743	ENTREZID	5264	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	219743	ENTREZID	30	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	219743	ENTREZID	6342	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	219743	ENTREZID	3295	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	219743	ENTREZID	51	directed	Control(Out: ACTIVATION of BiochemicalReaction)

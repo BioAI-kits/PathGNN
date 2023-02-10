@@ -1,0 +1,83 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	4221	ENTREZID	999	undirected	Binding
+ENTREZID	4221	ENTREZID	1495	undirected	Binding
+ENTREZID	4221	ENTREZID	1499	undirected	Binding
+ENTREZID	4221	ENTREZID	8826	directed	Control(In: INHIBITION of BiochemicalReaction)
+ENTREZID	4221	ENTREZID	8826	undirected	Binding
+ENTREZID	4221	ENTREZID	998	directed	Control(In: INHIBITION of BiochemicalReaction)
+ENTREZID	4221	ENTREZID	5879	directed	Control(In: INHIBITION of BiochemicalReaction)
+ENTREZID	4221	ENTREZID	10788	directed	Control(In: INHIBITION of BiochemicalReaction)
+ENTREZID	4221	ENTREZID	128239	directed	Control(In: INHIBITION of BiochemicalReaction)
+ENTREZID	801	ENTREZID	8826	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	805	ENTREZID	8826	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	808	ENTREZID	8826	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	801	ENTREZID	8826	undirected	Binding
+ENTREZID	805	ENTREZID	8826	undirected	Binding
+ENTREZID	808	ENTREZID	8826	undirected	Binding
+ENTREZID	801	ENTREZID	998	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	805	ENTREZID	998	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	808	ENTREZID	998	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	801	ENTREZID	998	undirected	Binding
+ENTREZID	805	ENTREZID	998	undirected	Binding
+ENTREZID	808	ENTREZID	998	undirected	Binding
+ENTREZID	801	ENTREZID	5879	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	805	ENTREZID	5879	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	808	ENTREZID	5879	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	801	ENTREZID	5879	undirected	Binding
+ENTREZID	805	ENTREZID	5879	undirected	Binding
+ENTREZID	808	ENTREZID	5879	undirected	Binding
+ENTREZID	801	ENTREZID	10788	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	805	ENTREZID	10788	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	808	ENTREZID	10788	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	801	ENTREZID	10788	undirected	Binding
+ENTREZID	805	ENTREZID	10788	undirected	Binding
+ENTREZID	808	ENTREZID	10788	undirected	Binding
+ENTREZID	801	ENTREZID	128239	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	805	ENTREZID	128239	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	808	ENTREZID	128239	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	801	ENTREZID	128239	undirected	Binding
+ENTREZID	805	ENTREZID	128239	undirected	Binding
+ENTREZID	808	ENTREZID	128239	undirected	Binding
+ENTREZID	999	ENTREZID	1495	undirected	Binding
+ENTREZID	1499	ENTREZID	999	undirected	Binding
+ENTREZID	1499	ENTREZID	1495	undirected	Binding
+ENTREZID	1499	ENTREZID	8826	undirected	Binding
+ENTREZID	8826	ENTREZID	4221	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	8826	ENTREZID	999	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	8826	ENTREZID	999	undirected	Binding
+ENTREZID	8826	ENTREZID	6249	undirected	Binding
+ENTREZID	8826	ENTREZID	1495	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	8826	ENTREZID	1495	undirected	Binding
+ENTREZID	8826	ENTREZID	1499	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	8826	ENTREZID	998	directed	Control(In: INHIBITION of BiochemicalReaction)
+ENTREZID	8826	ENTREZID	998	undirected	Binding
+ENTREZID	8826	ENTREZID	5879	directed	Control(In: INHIBITION of BiochemicalReaction)
+ENTREZID	8826	ENTREZID	10788	directed	Control(In: INHIBITION of BiochemicalReaction)
+ENTREZID	8826	ENTREZID	128239	directed	Control(In: INHIBITION of BiochemicalReaction)
+ENTREZID	998	ENTREZID	4221	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	998	ENTREZID	999	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	998	ENTREZID	6249	undirected	Binding
+ENTREZID	998	ENTREZID	1495	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	998	ENTREZID	1499	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	998	ENTREZID	8826	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	998	ENTREZID	10788	undirected	Binding
+ENTREZID	998	ENTREZID	128239	undirected	Binding
+ENTREZID	5879	ENTREZID	4221	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	5879	ENTREZID	999	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	5879	ENTREZID	6249	undirected	Binding
+ENTREZID	5879	ENTREZID	1495	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	5879	ENTREZID	1499	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	5879	ENTREZID	8826	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	5879	ENTREZID	8826	undirected	Binding
+ENTREZID	5879	ENTREZID	10788	undirected	Binding
+ENTREZID	5879	ENTREZID	128239	undirected	Binding
+ENTREZID	10788	ENTREZID	4221	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	10788	ENTREZID	999	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	10788	ENTREZID	1495	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	10788	ENTREZID	1499	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	10788	ENTREZID	8826	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	128239	ENTREZID	4221	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	128239	ENTREZID	999	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	128239	ENTREZID	1495	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	128239	ENTREZID	1499	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	128239	ENTREZID	8826	directed	Control(Out: INHIBITION of BiochemicalReaction)

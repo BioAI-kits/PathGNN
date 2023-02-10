@@ -1,0 +1,6 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	4233	ENTREZID	3082	undirected	Binding
+ENTREZID	4233	ENTREZID	6774	undirected	Binding
+ENTREZID	6774	ENTREZID	4233	directed	Control(In: ACTIVATION of BiochemicalReaction)
+ENTREZID	6774	ENTREZID	3082	directed	Control(In: ACTIVATION of BiochemicalReaction)
+ENTREZID	6774	ENTREZID	3082	undirected	Binding

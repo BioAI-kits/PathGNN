@@ -1,0 +1,34 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	4790	ENTREZID	4804	undirected	Binding
+ENTREZID	4790	ENTREZID	5970	undirected	Binding
+ENTREZID	4790	ENTREZID	7189	undirected	Binding
+ENTREZID	5663	ENTREZID	4804	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	5663	ENTREZID	4804	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	5663	ENTREZID	83464	undirected	Binding
+ENTREZID	5663	ENTREZID	23385	undirected	Binding
+ENTREZID	5663	ENTREZID	51107	undirected	Binding
+ENTREZID	5664	ENTREZID	4804	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	5664	ENTREZID	4804	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	5664	ENTREZID	83464	undirected	Binding
+ENTREZID	5664	ENTREZID	23385	undirected	Binding
+ENTREZID	5664	ENTREZID	51107	undirected	Binding
+ENTREZID	6868	ENTREZID	4804	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	6868	ENTREZID	4804	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	5970	ENTREZID	4804	undirected	Binding
+ENTREZID	5970	ENTREZID	7189	undirected	Binding
+ENTREZID	83464	ENTREZID	4804	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	83464	ENTREZID	4804	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	83464	ENTREZID	23385	undirected	Binding
+ENTREZID	23385	ENTREZID	4804	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	23385	ENTREZID	4804	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	51107	ENTREZID	4804	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	51107	ENTREZID	4804	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	51107	ENTREZID	23385	undirected	Binding
+ENTREZID	55851	ENTREZID	4804	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	55851	ENTREZID	4804	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	55851	ENTREZID	5663	undirected	Binding
+ENTREZID	55851	ENTREZID	5664	undirected	Binding
+ENTREZID	55851	ENTREZID	83464	undirected	Binding
+ENTREZID	55851	ENTREZID	23385	undirected	Binding
+ENTREZID	55851	ENTREZID	51107	undirected	Binding
+ENTREZID	7189	ENTREZID	4804	undirected	Binding

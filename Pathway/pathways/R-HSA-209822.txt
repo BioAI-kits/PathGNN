@@ -1,0 +1,29 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	1081	ENTREZID	7252	undirected	Binding
+ENTREZID	1081	ENTREZID	2488	undirected	Binding
+ENTREZID	1081	ENTREZID	3972	undirected	Binding
+ENTREZID	1081	ENTREZID	1082	undirected	Binding
+ENTREZID	1081	ENTREZID	93659	undirected	Binding
+ENTREZID	1081	ENTREZID	94115	undirected	Binding
+ENTREZID	3623	ENTREZID	1081	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	3623	ENTREZID	2488	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	3624	ENTREZID	1081	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	3624	ENTREZID	1081	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	3624	ENTREZID	2488	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	3624	ENTREZID	2488	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	3624	ENTREZID	3623	undirected	Binding
+ENTREZID	3625	ENTREZID	1081	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	3625	ENTREZID	1081	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	3625	ENTREZID	2488	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	3625	ENTREZID	2488	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	3625	ENTREZID	3623	undirected	Binding
+ENTREZID	3626	ENTREZID	1081	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	3626	ENTREZID	1081	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	3626	ENTREZID	2488	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	3626	ENTREZID	2488	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	3626	ENTREZID	3623	undirected	Binding
+ENTREZID	83729	ENTREZID	1081	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	83729	ENTREZID	1081	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	83729	ENTREZID	2488	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	83729	ENTREZID	2488	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	83729	ENTREZID	3623	undirected	Binding

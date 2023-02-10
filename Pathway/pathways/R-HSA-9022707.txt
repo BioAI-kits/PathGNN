@@ -1,0 +1,5 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	4204	ENTREZID	1385	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	4204	ENTREZID	5468	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	4204	ENTREZID	4208	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	4204	ENTREZID	54715	directed	Control(Out: INHIBITION of BiochemicalReaction)

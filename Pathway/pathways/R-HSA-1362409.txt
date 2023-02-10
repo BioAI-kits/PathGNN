@@ -1,0 +1,27 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	2230	ENTREZID	2395	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	2230	ENTREZID	23479	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	2230	ENTREZID	57128	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	2230	ENTREZID	9054	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	2395	ENTREZID	2230	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	2395	ENTREZID	112812	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	2395	ENTREZID	23479	undirected	Binding
+ENTREZID	112812	ENTREZID	2395	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	112812	ENTREZID	23479	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	112812	ENTREZID	57128	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	112812	ENTREZID	9054	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	150274	ENTREZID	51218	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	150274	ENTREZID	122961	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	150274	ENTREZID	81689	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	81689	ENTREZID	122961	undirected	Binding
+ENTREZID	23479	ENTREZID	2230	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	23479	ENTREZID	112812	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	57128	ENTREZID	2230	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	57128	ENTREZID	2395	undirected	Binding
+ENTREZID	57128	ENTREZID	112812	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	57128	ENTREZID	23479	undirected	Binding
+ENTREZID	9054	ENTREZID	2230	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	9054	ENTREZID	2395	undirected	Binding
+ENTREZID	9054	ENTREZID	112812	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	9054	ENTREZID	23479	undirected	Binding
+ENTREZID	9054	ENTREZID	57128	undirected	Binding

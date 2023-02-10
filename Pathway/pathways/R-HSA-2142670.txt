@@ -1,0 +1,8 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	1543	ENTREZID	2053	directed	Control(indirect)
+ENTREZID	1544	ENTREZID	2053	directed	Control(indirect)
+ENTREZID	1558	ENTREZID	2053	directed	Control(indirect)
+ENTREZID	1559	ENTREZID	2053	directed	Control(indirect)
+ENTREZID	1557	ENTREZID	2053	directed	Control(indirect)
+ENTREZID	1573	ENTREZID	2053	directed	Control(indirect)
+ENTREZID	1545	ENTREZID	2053	directed	Control(indirect)

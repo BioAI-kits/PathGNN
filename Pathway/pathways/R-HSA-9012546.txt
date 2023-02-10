@@ -1,0 +1,19 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	10068	ENTREZID	8807	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	10068	ENTREZID	8809	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	10068	ENTREZID	3606	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	10068	ENTREZID	3606	undirected	Binding
+ENTREZID	10068	ENTREZID	27178	undirected	Binding
+ENTREZID	3565	ENTREZID	240	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	3565	ENTREZID	3606	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	3596	ENTREZID	240	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	3596	ENTREZID	3606	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	8809	ENTREZID	8807	undirected	Binding
+ENTREZID	8809	ENTREZID	3606	undirected	Binding
+ENTREZID	3606	ENTREZID	8807	undirected	Binding
+ENTREZID	3606	ENTREZID	10068	directed	Control(In: INHIBITION of BiochemicalReaction)
+ENTREZID	3606	ENTREZID	8809	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	3606	ENTREZID	8809	directed	Control(Out: ACTIVATION of BiochemicalReaction)
+ENTREZID	27178	ENTREZID	8807	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	27178	ENTREZID	8809	directed	Control(Out: INHIBITION of BiochemicalReaction)
+ENTREZID	27178	ENTREZID	3606	directed	Control(Out: INHIBITION of BiochemicalReaction)

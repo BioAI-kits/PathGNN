@@ -1,0 +1,5 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	7166	ENTREZID	1644	directed	Control(indirect)
+ENTREZID	1644	ENTREZID	15	directed	Control(indirect)
+ENTREZID	15	ENTREZID	438	directed	Control(indirect)
+ENTREZID	121278	ENTREZID	1644	directed	Control(indirect)

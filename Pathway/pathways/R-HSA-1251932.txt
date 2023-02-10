@@ -1,0 +1,7 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	1956	ENTREZID	1950	undirected	Binding
+ENTREZID	1956	ENTREZID	5335	undirected	Binding
+ENTREZID	1950	ENTREZID	5335	undirected	Binding
+ENTREZID	2064	ENTREZID	1956	undirected	Binding
+ENTREZID	2064	ENTREZID	1950	undirected	Binding
+ENTREZID	2064	ENTREZID	5335	undirected	Binding

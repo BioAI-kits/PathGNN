@@ -1,0 +1,9 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	801	ENTREZID	814	undirected	Binding
+ENTREZID	805	ENTREZID	814	undirected	Binding
+ENTREZID	808	ENTREZID	814	undirected	Binding
+ENTREZID	4204	ENTREZID	801	directed	Control(In: ACTIVATION of BiochemicalReaction)
+ENTREZID	4204	ENTREZID	805	directed	Control(In: ACTIVATION of BiochemicalReaction)
+ENTREZID	4204	ENTREZID	808	directed	Control(In: ACTIVATION of BiochemicalReaction)
+ENTREZID	4204	ENTREZID	5566	directed	Control(In: ACTIVATION of BiochemicalReaction)
+ENTREZID	4204	ENTREZID	814	directed	Control(In: ACTIVATION of BiochemicalReaction)

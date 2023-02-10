@@ -1,0 +1,3 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	7341	ENTREZID	7329	directed	Process(BiochemicalReaction)
+ENTREZID	7329	ENTREZID	7341	undirected	Binding

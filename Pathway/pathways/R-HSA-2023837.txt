@@ -1,0 +1,2 @@
+src_type	src	dest_type	dest	direction	type
+ENTREZID	2263	CHEBI	156377	undirected	Binding
