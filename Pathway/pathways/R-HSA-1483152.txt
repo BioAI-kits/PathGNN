@@ -1,2 +1,0 @@
-src_type	src	dest_type	dest	direction	type
-ENTREZID	8605	ENTREZID	56261	directed	Control(indirect)

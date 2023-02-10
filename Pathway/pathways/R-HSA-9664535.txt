@@ -1,9 +1,0 @@
-src_type	src	dest_type	dest	direction	type
-ENTREZID	2678	ENTREZID	57105	directed	Control(Out: INHIBITION of BiochemicalReaction)
-ENTREZID	2678	ENTREZID	10800	directed	Control(Out: INHIBITION of BiochemicalReaction)
-ENTREZID	2678	ENTREZID	1800	directed	Control(indirect)
-ENTREZID	2678	ENTREZID	64174	directed	Control(indirect)
-ENTREZID	2678	ENTREZID	64180	directed	Control(indirect)
-ENTREZID	2687	ENTREZID	1800	directed	Control(indirect)
-ENTREZID	2687	ENTREZID	64174	directed	Control(indirect)
-ENTREZID	2687	ENTREZID	64180	directed	Control(indirect)

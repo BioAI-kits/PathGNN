@@ -1,8 +1,0 @@
-src_type	src	dest_type	dest	direction	type
-ENTREZID	4609	ENTREZID	1026	directed	Control(Out: INHIBITION of BiochemicalReaction)
-ENTREZID	4609	ENTREZID	7022	undirected	Binding
-ENTREZID	4609	ENTREZID	10765	undirected	Binding
-ENTREZID	7020	ENTREZID	1026	directed	Control(Out: ACTIVATION of BiochemicalReaction)
-ENTREZID	7022	ENTREZID	1026	directed	Control(Out: INHIBITION of BiochemicalReaction)
-ENTREZID	7022	ENTREZID	10765	undirected	Binding
-ENTREZID	10765	ENTREZID	1026	directed	Control(Out: INHIBITION of BiochemicalReaction)

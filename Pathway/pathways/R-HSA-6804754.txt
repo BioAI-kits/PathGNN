@@ -1,3 +1,0 @@
-src_type	src	dest_type	dest	direction	type
-ENTREZID	639	ENTREZID	7157	directed	Control(Out: INHIBITION of BiochemicalReaction)
-ENTREZID	7157	ENTREZID	639	directed	Control(Out: ACTIVATION of BiochemicalReaction)

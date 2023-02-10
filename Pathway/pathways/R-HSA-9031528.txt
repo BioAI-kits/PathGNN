@@ -1,8 +1,0 @@
-src_type	src	dest_type	dest	direction	type
-ENTREZID	6256	ENTREZID	5346	directed	Control(Out: INHIBITION of BiochemicalReaction)
-ENTREZID	6257	ENTREZID	5346	directed	Control(Out: INHIBITION of BiochemicalReaction)
-ENTREZID	7376	ENTREZID	5346	directed	Control(Out: INHIBITION of BiochemicalReaction)
-ENTREZID	7376	ENTREZID	6256	undirected	Binding
-ENTREZID	10062	ENTREZID	5346	directed	Control(Out: INHIBITION of BiochemicalReaction)
-ENTREZID	10062	ENTREZID	6256	undirected	Binding
-ENTREZID	10062	ENTREZID	6257	undirected	Binding

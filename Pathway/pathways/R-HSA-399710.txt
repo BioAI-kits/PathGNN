@@ -1,6 +1,0 @@
-src_type	src	dest_type	dest	direction	type
-ENTREZID	2890	ENTREZID	2892	undirected	Binding
-ENTREZID	2890	ENTREZID	2893	undirected	Binding
-ENTREZID	2891	ENTREZID	2890	undirected	Binding
-ENTREZID	2891	ENTREZID	2892	undirected	Binding
-ENTREZID	2891	ENTREZID	2893	undirected	Binding

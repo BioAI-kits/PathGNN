@@ -1,7 +1,0 @@
-src_type	src	dest_type	dest	direction	type
-ENTREZID	5594	ENTREZID	1850	directed	Control(In: ACTIVATION of BiochemicalReaction)
-ENTREZID	5594	ENTREZID	1848	directed	Control(In: ACTIVATION of BiochemicalReaction)
-ENTREZID	5594	ENTREZID	1849	directed	Control(In: ACTIVATION of BiochemicalReaction)
-ENTREZID	5594	ENTREZID	1852	directed	Control(In: ACTIVATION of BiochemicalReaction)
-ENTREZID	5594	ENTREZID	80824	directed	Control(In: ACTIVATION of BiochemicalReaction)
-ENTREZID	5594	ENTREZID	11221	directed	Control(In: ACTIVATION of BiochemicalReaction)

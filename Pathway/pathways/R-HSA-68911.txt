@@ -1,9 +1,0 @@
-src_type	src	dest_type	dest	direction	type
-ENTREZID	890	ENTREZID	1871	undirected	Binding
-ENTREZID	890	ENTREZID	1869	undirected	Binding
-ENTREZID	1017	ENTREZID	1871	undirected	Binding
-ENTREZID	1017	ENTREZID	890	undirected	Binding
-ENTREZID	1017	ENTREZID	8900	undirected	Binding
-ENTREZID	1017	ENTREZID	1869	undirected	Binding
-ENTREZID	8900	ENTREZID	1871	undirected	Binding
-ENTREZID	8900	ENTREZID	1869	undirected	Binding

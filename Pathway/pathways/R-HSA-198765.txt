@@ -1,2 +1,0 @@
-src_type	src	dest_type	dest	direction	type
-ENTREZID	5607	ENTREZID	5598	directed	Control(Out: ACTIVATION of BiochemicalReaction)

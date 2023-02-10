@@ -1,9 +1,0 @@
-src_type	src	dest_type	dest	direction	type
-ENTREZID	154	ENTREZID	153	directed	Control(Out: INHIBITION of BiochemicalReaction)
-ENTREZID	154	ENTREZID	153	directed	Control(Out: ACTIVATION of BiochemicalReaction)
-ENTREZID	154	ENTREZID	155	directed	Control(Out: INHIBITION of BiochemicalReaction)
-ENTREZID	153	ENTREZID	154	directed	Control(Out: INHIBITION of BiochemicalReaction)
-ENTREZID	153	ENTREZID	154	directed	Control(Out: ACTIVATION of BiochemicalReaction)
-ENTREZID	153	ENTREZID	155	directed	Control(Out: INHIBITION of BiochemicalReaction)
-ENTREZID	155	ENTREZID	154	directed	Control(Out: INHIBITION of BiochemicalReaction)
-ENTREZID	155	ENTREZID	153	directed	Control(Out: INHIBITION of BiochemicalReaction)

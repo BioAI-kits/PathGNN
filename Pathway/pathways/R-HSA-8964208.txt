@@ -1,7 +1,0 @@
-src_type	src	dest_type	dest	direction	type
-ENTREZID	5053	ENTREZID	5092	directed	Control(indirect)
-ENTREZID	5860	ENTREZID	5053	directed	Control(indirect)
-ENTREZID	5092	ENTREZID	5860	directed	Control(indirect)
-ENTREZID	5092	ENTREZID	80150	directed	Control(indirect)
-ENTREZID	80150	ENTREZID	5053	directed	Control(indirect)
-ENTREZID	80150	ENTREZID	883	directed	Control(indirect)

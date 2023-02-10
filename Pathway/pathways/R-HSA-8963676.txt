@@ -1,7 +1,0 @@
-src_type	src	dest_type	dest	direction	type
-ENTREZID	6514	ENTREZID	6523	directed	Control(indirect)
-ENTREZID	6514	ENTREZID	6518	directed	Control(indirect)
-ENTREZID	6514	ENTREZID	6248	directed	Control(indirect)
-ENTREZID	6523	ENTREZID	6514	directed	Control(indirect)
-ENTREZID	6518	ENTREZID	6514	directed	Control(indirect)
-ENTREZID	6248	ENTREZID	6514	directed	Control(indirect)

@@ -1,1 +1,0 @@
-src_type	src	dest_type	dest	direction	type

@@ -1,5 +1,0 @@
-src_type	src	dest_type	dest	direction	type
-ENTREZID	4000	ENTREZID	839	directed	Control(In: ACTIVATION of BiochemicalReaction)
-ENTREZID	4001	ENTREZID	839	directed	Control(In: ACTIVATION of BiochemicalReaction)
-ENTREZID	839	ENTREZID	4000	directed	Control(Out: ACTIVATION of BiochemicalReaction)
-ENTREZID	839	ENTREZID	4001	directed	Control(Out: ACTIVATION of BiochemicalReaction)

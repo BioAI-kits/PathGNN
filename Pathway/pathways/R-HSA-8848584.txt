@@ -1,6 +1,0 @@
-src_type	src	dest_type	dest	direction	type
-ENTREZID	8443	ENTREZID	8540	undirected	Binding
-ENTREZID	8540	ENTREZID	25979	directed	Control(indirect)
-ENTREZID	8443	ENTREZID	25979	directed	Control(indirect)
-ENTREZID	84188	ENTREZID	158835	directed	Control(indirect)
-ENTREZID	55711	ENTREZID	158835	directed	Control(indirect)

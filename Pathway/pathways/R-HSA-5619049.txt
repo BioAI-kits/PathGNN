@@ -1,2 +1,0 @@
-src_type	src	dest_type	dest	direction	type
-ENTREZID	30061	ENTREZID	1356	undirected	Binding

@@ -1,9 +1,0 @@
-src_type	src	dest_type	dest	direction	type
-ENTREZID	3688	ENTREZID	84951	undirected	Binding
-ENTREZID	4233	ENTREZID	3688	undirected	Binding
-ENTREZID	4233	ENTREZID	3082	undirected	Binding
-ENTREZID	4233	ENTREZID	64759	undirected	Binding
-ENTREZID	4233	ENTREZID	84951	undirected	Binding
-ENTREZID	3082	ENTREZID	3688	undirected	Binding
-ENTREZID	3082	ENTREZID	64759	undirected	Binding
-ENTREZID	3082	ENTREZID	84951	undirected	Binding

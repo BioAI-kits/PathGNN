@@ -1,5 +1,0 @@
-src_type	src	dest_type	dest	direction	type
-ENTREZID	5020	ENTREZID	5021	undirected	Binding
-ENTREZID	551	ENTREZID	554	undirected	Binding
-ENTREZID	552	ENTREZID	551	undirected	Binding
-ENTREZID	553	ENTREZID	551	undirected	Binding
