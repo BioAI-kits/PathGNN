@@ -42,6 +42,8 @@ This step is to build pathway graphs which are the input of PathGNN.
 
 (Due to dataset size, we splited LUAD dataset into three parts. Thus, merging them to obtain complete dataset. More details information refer: https://github.com/BioAI-kits/PathGNN/blob/main/Data/LUAD/clean/readme.md)
 
+pathways.zip should be unzipped first.
+
 ```py
 python data.py LUAD.ini
 ```
